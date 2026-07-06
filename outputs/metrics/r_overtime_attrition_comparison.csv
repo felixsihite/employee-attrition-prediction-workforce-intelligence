@@ -1,0 +1,3 @@
+"dimension","segment","employees","population_share","attrition_count","attrition_rate"
+"OverTime","Yes",416,0.282993197278912,127,0.305288461538462
+"OverTime","No",1054,0.717006802721088,110,0.104364326375712

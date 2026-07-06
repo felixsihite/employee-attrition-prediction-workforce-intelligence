@@ -1,0 +1,5 @@
+"dimension","segment","employees","population_share","attrition_count","attrition_rate"
+"JobSatisfaction","1",289,0.196598639455782,66,0.228373702422145
+"JobSatisfaction","3",442,0.300680272108844,73,0.165158371040724
+"JobSatisfaction","2",280,0.19047619047619,46,0.164285714285714
+"JobSatisfaction","4",459,0.312244897959184,52,0.113289760348584

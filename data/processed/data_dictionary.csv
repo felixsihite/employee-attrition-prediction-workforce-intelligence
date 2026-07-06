@@ -1,0 +1,36 @@
+column,dtype,role,missing_values,unique_values,description
+Age,int64,numeric_feature,0,43,Employee age in years.
+Attrition,object,target,0,2,Target label indicating whether the employee left the company.
+BusinessTravel,object,categorical_feature,0,3,Business travel frequency.
+DailyRate,int64,numeric_feature,0,886,Daily compensation rate recorded in the source data.
+Department,object,categorical_feature,0,3,Employee department.
+DistanceFromHome,int64,numeric_feature,0,29,Distance from home to workplace.
+Education,int64,numeric_feature,0,5,Education level coded from 1 to 5.
+EducationField,object,categorical_feature,0,6,Field of education.
+EmployeeCount,int64,constant_excluded,0,1,Constant source column; excluded from modeling.
+EmployeeNumber,int64,identifier_excluded,0,1470,Employee identifier; retained for reporting but excluded from modeling.
+EnvironmentSatisfaction,int64,numeric_feature,0,4,Work environment satisfaction score from 1 to 4.
+Gender,object,categorical_feature,0,2,Employee gender category in the source data.
+HourlyRate,int64,numeric_feature,0,71,Hourly rate recorded in the source data.
+JobInvolvement,int64,numeric_feature,0,4,Job involvement score from 1 to 4.
+JobLevel,int64,numeric_feature,0,5,Internal job level.
+JobRole,object,categorical_feature,0,9,Employee job role.
+JobSatisfaction,int64,numeric_feature,0,4,Job satisfaction score from 1 to 4.
+MaritalStatus,object,categorical_feature,0,3,Marital status category.
+MonthlyIncome,int64,numeric_feature,0,1349,Monthly income.
+MonthlyRate,int64,numeric_feature,0,1427,Monthly rate recorded in the source data.
+NumCompaniesWorked,int64,numeric_feature,0,10,Number of companies worked before or including the current employer.
+Over18,object,constant_excluded,0,1,Constant source column; excluded from modeling.
+OverTime,object,categorical_feature,0,2,Whether the employee works overtime.
+PercentSalaryHike,int64,numeric_feature,0,15,Percent salary hike.
+PerformanceRating,int64,numeric_feature,0,2,Performance rating.
+RelationshipSatisfaction,int64,numeric_feature,0,4,Relationship satisfaction score from 1 to 4.
+StandardHours,int64,constant_excluded,0,1,Constant source column; excluded from modeling.
+StockOptionLevel,int64,numeric_feature,0,4,Stock option level.
+TotalWorkingYears,int64,numeric_feature,0,40,Total years of work experience.
+TrainingTimesLastYear,int64,numeric_feature,0,7,Training count in the last year.
+WorkLifeBalance,int64,numeric_feature,0,4,Work-life balance score from 1 to 4.
+YearsAtCompany,int64,numeric_feature,0,37,Tenure at the company in years.
+YearsInCurrentRole,int64,numeric_feature,0,19,Years in the current role.
+YearsSinceLastPromotion,int64,numeric_feature,0,16,Years since last promotion.
+YearsWithCurrManager,int64,numeric_feature,0,18,Years working with the current manager.

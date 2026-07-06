@@ -1,0 +1,4 @@
+"dimension","segment","employees","population_share","attrition_count","attrition_rate"
+"Department","Sales",446,0.303401360544218,92,0.20627802690583
+"Department","Human Resources",63,0.0428571428571429,12,0.19047619047619
+"Department","Research & Development",961,0.653741496598639,133,0.138397502601457

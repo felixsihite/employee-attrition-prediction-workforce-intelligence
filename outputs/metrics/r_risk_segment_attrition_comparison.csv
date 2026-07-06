@@ -1,0 +1,5 @@
+"dimension","segment","employees","population_share","attrition_count","attrition_rate"
+"risk_segment","Early-tenure workload risk",64,0.0435374149659864,36,0.5625
+"risk_segment","Satisfaction risk",697,0.474149659863946,121,0.173601147776184
+"risk_segment","Career progression risk",285,0.193877551020408,35,0.12280701754386
+"risk_segment","Baseline workforce",424,0.28843537414966,45,0.106132075471698

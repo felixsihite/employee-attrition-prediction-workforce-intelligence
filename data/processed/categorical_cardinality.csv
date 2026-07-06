@@ -1,0 +1,10 @@
+column,unique_values,top_value
+JobRole,9,Sales Executive
+EducationField,6,Life Sciences
+MaritalStatus,3,Married
+Department,3,Research & Development
+BusinessTravel,3,Travel_Rarely
+Attrition,2,No
+Gender,2,Male
+OverTime,2,No
+Over18,1,Y

@@ -1,0 +1,33 @@
+[project]
+name = "employee-attrition-prediction-workforce-intelligence"
+version = "1.0.0"
+description = "Enterprise-grade People Analytics portfolio project for employee attrition prediction and workforce intelligence."
+readme = "README.md"
+requires-python = ">=3.13,<3.14"
+authors = [{ name = "Data Science Portfolio" }]
+keywords = [
+  "people-analytics",
+  "employee-attrition",
+  "machine-learning",
+  "workforce-intelligence",
+  "streamlit",
+]
+classifiers = [
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+  "Topic :: Office/Business",
+]
+
+[project.urls]
+Dataset = "https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.project_runtime]
+python_version = "3.13.1"
+raw_dataset = "data/raw/WA_Fn-UseC_-HR-Employee-Attrition.csv"
+dashboard_entrypoint = "streamlit_app/app.py"
+pipeline_entrypoint = "scripts/run_pipeline.py"

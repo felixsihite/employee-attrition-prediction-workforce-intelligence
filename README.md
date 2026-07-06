@@ -2,6 +2,8 @@
 
 Professional People Analytics portfolio project for predicting employee attrition risk, explaining risk drivers, segmenting workforce patterns, and supporting responsible HR retention planning.
 
+**Live Streamlit dashboard:** https://employee-attrition-prediction-workforce-intelligence-uc5kedjxy.streamlit.app/
+
 ![Executive dashboard preview](outputs/dashboard_screenshots/00_app.png)
 
 ## Executive Summary

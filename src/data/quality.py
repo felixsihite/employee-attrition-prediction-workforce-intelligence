@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import cast
 
 import pandas as pd
 
@@ -120,14 +121,27 @@ def validate_raw_dataset(df: pd.DataFrame) -> None:
         raise ValueError("Raw dataset validation failed: " + " ".join(errors))
 
 
+def is_categorical_series(series: pd.Series) -> bool:
+    return (
+        pd.api.types.is_object_dtype(series.dtype)
+        or pd.api.types.is_string_dtype(series.dtype)
+        or isinstance(series.dtype, pd.CategoricalDtype)
+    )
+
+
+def categorical_columns(df: pd.DataFrame) -> list[str]:
+    return [str(column) for column in df.columns if is_categorical_series(cast(pd.Series, df[column]))]
+
+
 def categorical_cardinality(df: pd.DataFrame) -> pd.DataFrame:
     rows = []
-    for column in df.select_dtypes(include=["object", "category"]).columns:
+    for column in categorical_columns(df):
+        series = cast(pd.Series, df[column])
         rows.append(
             {
                 "column": column,
-                "unique_values": int(df[column].nunique(dropna=False)),
-                "top_value": df[column].mode(dropna=False).iloc[0],
+                "unique_values": int(series.nunique(dropna=False)),
+                "top_value": series.mode(dropna=False).iloc[0],
             }
         )
     return pd.DataFrame(rows).sort_values("unique_values", ascending=False)
@@ -140,28 +154,37 @@ def numeric_range_summary(df: pd.DataFrame) -> pd.DataFrame:
     return summary
 
 
+def stable_dtype_name(series: pd.Series) -> str:
+    if is_categorical_series(series) and not isinstance(series.dtype, pd.CategoricalDtype):
+        return "string"
+    if isinstance(series.dtype, pd.CategoricalDtype):
+        return "category"
+    return str(series.dtype)
+
+
 def data_dictionary_frame(df: pd.DataFrame) -> pd.DataFrame:
     rows = []
     constants = set(detect_constant_columns(df))
     identifiers = set(detect_identifier_columns(df))
     for column in df.columns:
+        series = cast(pd.Series, df[column])
         if column == TARGET_COLUMN:
             role = "target"
         elif column in constants:
             role = "constant_excluded"
         elif column in identifiers:
             role = "identifier_excluded"
-        elif pd.api.types.is_numeric_dtype(df[column]):
+        elif pd.api.types.is_numeric_dtype(series):
             role = "numeric_feature"
         else:
             role = "categorical_feature"
         rows.append(
             {
                 "column": column,
-                "dtype": str(df[column].dtype),
+                "dtype": stable_dtype_name(series),
                 "role": role,
-                "missing_values": int(df[column].isna().sum()),
-                "unique_values": int(df[column].nunique(dropna=False)),
+                "missing_values": int(series.isna().sum()),
+                "unique_values": int(series.nunique(dropna=False)),
                 "description": RAW_COLUMN_DESCRIPTIONS.get(column, "Source dataset field."),
             }
         )

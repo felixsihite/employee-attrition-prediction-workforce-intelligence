@@ -3,7 +3,7 @@ from __future__ import annotations
 import pandas as pd
 
 from src.config import CONSTANT_COLUMNS, IDENTIFIER_COLUMN, TARGET_COLUMN, TARGET_FLAG
-from src.data.quality import load_raw_data
+from src.data.quality import categorical_columns, load_raw_data
 from src.features.build_features import add_hr_features, build_modeling_dataset
 
 
@@ -15,7 +15,7 @@ def test_feature_matrix_excludes_leakage_columns_and_has_no_missing_values() -> 
     assert excluded.isdisjoint(set(X.columns))
     assert X.isna().sum().sum() == 0
     assert y.name == TARGET_FLAG
-    assert featured[TARGET_FLAG].isin([0, 1]).all()
+    assert bool(featured[TARGET_FLAG].isin([0, 1]).all())
     assert len(X) == len(y) == len(featured) == 1470
 
 
@@ -59,8 +59,8 @@ def test_engineered_flags_are_binary_and_interpretable() -> None:
 def test_modeling_dataset_preserves_mixed_feature_types() -> None:
     X, _, _ = build_modeling_dataset(load_raw_data())
     numeric_columns = X.select_dtypes(include="number").columns
-    categorical_columns = X.select_dtypes(include=["object", "category"]).columns
+    categorical_feature_columns = categorical_columns(X)
 
     assert len(numeric_columns) > 20
-    assert len(categorical_columns) >= 10
+    assert len(categorical_feature_columns) >= 10
     assert isinstance(X, pd.DataFrame)

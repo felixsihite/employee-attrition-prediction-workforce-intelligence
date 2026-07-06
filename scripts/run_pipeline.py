@@ -153,16 +153,18 @@ def save_core_charts(
     plt.close(fig)
 
     fig, ax = plt.subplots(figsize=(7, 5))
-    RocCurveDisplay.from_predictions(model_results["y_test"], model_results["test_probability"], ax=ax, color=THEME["accent_blue"])
+    roc_display = RocCurveDisplay.from_predictions(model_results["y_test"], model_results["test_probability"], ax=ax)
+    roc_display.line_.set_color(THEME["accent_blue"])
+    roc_display.line_.set_linewidth(2.4)
     polish_axis(ax, "ROC Curve - Final Model", "False Positive Rate", "True Positive Rate")
     fig.tight_layout()
     fig.savefig(CHARTS_DIR / "roc_curve.png", dpi=180)
     plt.close(fig)
 
     fig, ax = plt.subplots(figsize=(7, 5))
-    PrecisionRecallDisplay.from_predictions(
-        model_results["y_test"], model_results["test_probability"], ax=ax, color=THEME["accent_teal"]
-    )
+    pr_display = PrecisionRecallDisplay.from_predictions(model_results["y_test"], model_results["test_probability"], ax=ax)
+    pr_display.line_.set_color(THEME["accent_teal"])
+    pr_display.line_.set_linewidth(2.4)
     polish_axis(ax, "Precision-Recall Curve - Final Model", "Recall", "Precision")
     fig.tight_layout()
     fig.savefig(CHARTS_DIR / "precision_recall_curve.png", dpi=180)

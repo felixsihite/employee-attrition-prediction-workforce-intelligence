@@ -15,6 +15,7 @@ from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.tree import DecisionTreeClassifier
 
 from src.config import RANDOM_STATE
+from src.data.quality import categorical_columns
 from src.evaluation.metrics import (
     classification_metrics,
     select_operating_threshold,
@@ -37,8 +38,8 @@ class ModelResults(TypedDict):
 
 
 def make_preprocessor(X: pd.DataFrame) -> ColumnTransformer:
-    categorical_features = X.select_dtypes(include=["object", "category"]).columns.tolist()
-    numeric_features = X.select_dtypes(exclude=["object", "category"]).columns.tolist()
+    categorical_features = categorical_columns(X)
+    numeric_features = [column for column in X.columns.tolist() if column not in categorical_features]
     return ColumnTransformer(
         transformers=[
             ("numeric", StandardScaler(), numeric_features),

@@ -68,9 +68,9 @@ HR-focused features include tenure bands, income bands, age bands, overtime and 
 | model | cv_roc_auc_mean | cv_pr_auc_mean | cv_recall_mean | validation_pr_auc | selection_score | selected_model |
 | --- | --- | --- | --- | --- | --- | --- |
 | Logistic Regression | 0.8210 | 0.6280 | 0.7000 | 0.6290 | 0.7040 | True |
-| Random Forest | 0.8140 | 0.5730 | 0.4110 | 0.5980 | 0.5870 | False |
+| Random Forest | 0.8120 | 0.5730 | 0.4000 | 0.6010 | 0.5820 | False |
 | Gradient Boosting | 0.8200 | 0.6240 | 0.3160 | 0.5820 | 0.5200 | False |
-| Decision Tree | 0.6940 | 0.3760 | 0.5680 | 0.3580 | 0.5160 | False |
+| Decision Tree | 0.6940 | 0.3750 | 0.5680 | 0.3580 | 0.5160 | False |
 
 ## Final Model
 

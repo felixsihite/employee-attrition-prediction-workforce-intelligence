@@ -31,11 +31,11 @@ def test_risk_scores_are_complete_ranked_and_explainable() -> None:
     scores = pd.read_csv(path)
 
     assert len(scores) == 1470
-    assert scores["attrition_probability"].between(0, 1).all()
+    assert bool(scores["attrition_probability"].between(0, 1).all())
     assert scores["attrition_probability"].is_monotonic_decreasing
-    assert scores["risk_band"].notna().all()
-    assert scores["risk_decile"].between(1, 10).all()
-    assert scores["risk_explanation"].str.len().gt(0).all()
+    assert bool(scores["risk_band"].notna().all())
+    assert bool(scores["risk_decile"].between(1, 10).all())
+    assert bool(scores["risk_explanation"].str.len().gt(0).all())
 
 
 def test_metrics_json_contains_hr_relevant_model_evaluation() -> None:

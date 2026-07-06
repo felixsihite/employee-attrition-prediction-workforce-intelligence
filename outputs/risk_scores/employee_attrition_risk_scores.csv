@@ -212,15 +212,15 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1933,Sales,Sales Executive,Yes,Travel_Rarely,9854,2,3,4,3,Yes,1,0.7202565857743568,2,High,Priority 2 - targeted HR review,Works overtime; Early tenure; No stock option
 1113,Sales,Sales Executive,Yes,Travel_Frequently,4728,0,3,4,3,Yes,1,0.7196422996001872,2,High,Priority 2 - targeted HR review,Works overtime; Frequent business travel; Early tenure; No stock option
 1083,Research & Development,Laboratory Technician,No,Travel_Rarely,3955,5,1,1,3,No,0,0.7184078059051827,2,High,Priority 2 - targeted HR review,Low job satisfaction; Low environment satisfaction
-1,Sales,Sales Executive,Yes,Travel_Rarely,5993,6,4,2,1,Yes,1,0.7182560981806718,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; Low work-life balance; No stock option
+1,Sales,Sales Executive,Yes,Travel_Rarely,5993,6,4,2,1,Yes,1,0.7182560981806719,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; Low work-life balance; No stock option
 1014,Research & Development,Healthcare Representative,Yes,Travel_Rarely,10388,16,3,3,2,No,0,0.7180585139539818,2,High,Priority 2 - targeted HR review,Works overtime; Low work-life balance; Long promotion gap
 1055,Sales,Sales Representative,Yes,Travel_Rarely,2220,1,3,3,3,No,0,0.7178936558798348,2,High,Priority 2 - targeted HR review,Works overtime; Early tenure
 1549,Research & Development,Laboratory Technician,Yes,Travel_Rarely,5207,15,3,2,3,No,0,0.7177159258854247,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; Long promotion gap
 51,Research & Development,Research Scientist,Yes,Travel_Rarely,3419,1,1,2,4,No,0,0.7166767773699643,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction; Low environment satisfaction; Early tenure
 1725,Research & Development,Laboratory Technician,No,Travel_Rarely,3907,6,1,2,4,No,0,0.7163660017425276,2,High,Priority 2 - targeted HR review,Low job satisfaction; Low environment satisfaction
-1148,Research & Development,Laboratory Technician,No,Travel_Rarely,4272,1,4,2,3,No,0,0.7159171522922089,2,High,Priority 2 - targeted HR review,Low environment satisfaction; Early tenure; No stock option
-1842,Human Resources,Human Resources,No,Travel_Rarely,2956,1,1,4,3,Yes,1,0.7153483226274817,2,High,Priority 2 - targeted HR review,Low job satisfaction; Early tenure; No stock option
-392,Research & Development,Laboratory Technician,Yes,Travel_Frequently,3161,1,3,4,1,Yes,1,0.7153246148385768,2,High,Priority 2 - targeted HR review,Works overtime; Frequent business travel; Low work-life balance; Early tenure
+1148,Research & Development,Laboratory Technician,No,Travel_Rarely,4272,1,4,2,3,No,0,0.715917152292209,2,High,Priority 2 - targeted HR review,Low environment satisfaction; Early tenure; No stock option
+1842,Human Resources,Human Resources,No,Travel_Rarely,2956,1,1,4,3,Yes,1,0.7153483226274818,2,High,Priority 2 - targeted HR review,Low job satisfaction; Early tenure; No stock option
+392,Research & Development,Laboratory Technician,Yes,Travel_Frequently,3161,1,3,4,1,Yes,1,0.7153246148385769,2,High,Priority 2 - targeted HR review,Works overtime; Frequent business travel; Low work-life balance; Early tenure
 799,Research & Development,Manufacturing Director,Yes,Travel_Rarely,5485,5,1,4,3,No,0,0.7151759283889922,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction
 1605,Research & Development,Research Scientist,Yes,Non-Travel,2814,4,3,2,2,No,0,0.714852012255775,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; Low work-life balance; No stock option
 436,Sales,Sales Executive,Yes,Travel_Rarely,5228,13,2,3,3,No,0,0.7131087552274943,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction; Long promotion gap; No stock option
@@ -241,7 +241,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 238,Research & Development,Laboratory Technician,No,Travel_Frequently,2088,8,2,4,2,No,0,0.6969953762710812,2,High,Priority 2 - targeted HR review,Frequent business travel; Low job satisfaction; Low work-life balance; Long promotion gap; No stock option
 1380,Sales,Sales Executive,Yes,Travel_Frequently,4614,4,3,4,2,Yes,1,0.6943174700049835,2,High,Priority 2 - targeted HR review,Works overtime; Frequent business travel; Low work-life balance
 2032,Research & Development,Laboratory Technician,No,Travel_Rarely,2339,10,3,4,1,Yes,1,0.6924904012505709,2,High,Priority 2 - targeted HR review,Low work-life balance; Long promotion gap
-582,Research & Development,Manager,Yes,Travel_Rarely,13610,7,3,2,4,Yes,1,0.6920188585124186,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; Long promotion gap; No stock option
+582,Research & Development,Manager,Yes,Travel_Rarely,13610,7,3,2,4,Yes,1,0.6920188585124185,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; Long promotion gap; No stock option
 1037,Sales,Sales Executive,No,Non-Travel,4969,2,1,2,3,Yes,1,0.6917601334970326,2,High,Priority 2 - targeted HR review,Low job satisfaction; Low environment satisfaction; Early tenure; No stock option
 1403,Sales,Sales Executive,Yes,Travel_Rarely,5769,6,4,4,3,No,0,0.6914824647989312,2,High,Priority 2 - targeted HR review,Works overtime; Long promotion gap; No stock option
 124,Research & Development,Healthcare Representative,Yes,Travel_Frequently,10673,10,1,3,2,No,0,0.688295776051722,2,High,Priority 2 - targeted HR review,Works overtime; Frequent business travel; Low job satisfaction; Low work-life balance; Long promotion gap
@@ -271,14 +271,14 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 315,Research & Development,Research Scientist,Yes,Travel_Rarely,2389,4,4,3,2,Yes,1,0.6640487813233217,2,High,Priority 2 - targeted HR review,Works overtime; Low work-life balance; No stock option
 1125,Sales,Sales Executive,No,Travel_Rarely,7351,1,2,4,3,No,0,0.6630646327186055,2,High,Priority 2 - targeted HR review,Low job satisfaction; Early tenure; No stock option
 1702,Sales,Sales Representative,Yes,Travel_Rarely,2275,3,4,3,3,Yes,1,0.6621778581194541,2,High,Priority 2 - targeted HR review,Works overtime
-133,Human Resources,Human Resources,Yes,Travel_Rarely,2073,3,1,3,3,Yes,1,0.6597164669718267,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction; No stock option
+133,Human Resources,Human Resources,Yes,Travel_Rarely,2073,3,1,3,3,Yes,1,0.6597164669718268,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction; No stock option
 600,Sales,Sales Executive,No,Travel_Rarely,4717,11,3,2,3,No,0,0.6590076620761351,2,High,Priority 2 - targeted HR review,Low environment satisfaction; Long promotion gap; No stock option
 325,Research & Development,Laboratory Technician,Yes,Travel_Rarely,2436,5,4,3,1,Yes,1,0.6565813601072926,2,High,Priority 2 - targeted HR review,Works overtime; Low work-life balance
 1754,Sales,Sales Executive,No,Travel_Rarely,7140,7,1,3,3,No,0,0.6560121414163238,2,High,Priority 2 - targeted HR review,Low job satisfaction
 1396,Sales,Sales Executive,Yes,Travel_Rarely,4078,3,2,3,2,No,0,0.6558812848039703,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction; Low work-life balance
 2020,Research & Development,Research Scientist,Yes,Travel_Rarely,2436,4,4,2,3,No,0,0.6557999157891624,2,High,Priority 2 - targeted HR review,Works overtime; Low environment satisfaction; No stock option
 2040,Human Resources,Human Resources,Yes,Travel_Rarely,8837,9,4,3,3,No,0,0.6541248078779291,2,High,Priority 2 - targeted HR review,Works overtime; No stock option
-1165,Sales,Sales Executive,No,Travel_Rarely,7336,11,1,4,1,Yes,1,0.6539283100528773,2,High,Priority 2 - targeted HR review,Low job satisfaction; Low work-life balance
+1165,Sales,Sales Executive,No,Travel_Rarely,7336,11,1,4,1,Yes,1,0.6539283100528772,2,High,Priority 2 - targeted HR review,Low job satisfaction; Low work-life balance
 1818,Human Resources,Human Resources,Yes,Travel_Rarely,2148,5,2,4,3,Yes,1,0.6536927872173799,2,High,Priority 2 - targeted HR review,Works overtime; Low job satisfaction; No stock option
 362,Research & Development,Laboratory Technician,No,Travel_Rarely,2176,6,1,4,3,No,0,0.652965170571562,2,High,Priority 2 - targeted HR review,Low job satisfaction; No stock option
 1606,Research & Development,Healthcare Representative,Yes,Travel_Frequently,11245,30,3,2,3,No,0,0.6519680043544817,2,High,Priority 2 - targeted HR review,Works overtime; Frequent business travel; Low environment satisfaction; Long promotion gap
@@ -296,10 +296,10 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 752,Research & Development,Research Scientist,Yes,Travel_Frequently,2759,2,3,3,3,Yes,1,0.6326786649762983,3,High,Priority 3 - manager check-in,Works overtime; Frequent business travel; Early tenure; No stock option
 1669,Sales,Sales Executive,Yes,Travel_Rarely,4187,10,2,1,2,No,0,0.6325716163847628,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; Low environment satisfaction; Low work-life balance
 1138,Sales,Sales Executive,No,Travel_Rarely,13120,9,2,4,3,No,0,0.6323154080498339,3,High,Priority 3 - manager check-in,Low job satisfaction
-81,Sales,Sales Executive,No,Travel_Rarely,7637,21,1,1,2,No,0,0.6316719946601274,3,High,Priority 3 - manager check-in,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap; No stock option
+81,Sales,Sales Executive,No,Travel_Rarely,7637,21,1,1,2,No,0,0.6316719946601275,3,High,Priority 3 - manager check-in,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap; No stock option
 91,Sales,Sales Executive,No,Travel_Frequently,5473,4,3,1,2,No,0,0.6315155305823253,3,High,Priority 3 - manager check-in,Frequent business travel; Low environment satisfaction; Low work-life balance; No stock option
 1390,Sales,Sales Executive,Yes,Travel_Rarely,6120,5,4,1,4,No,0,0.6314921905998383,3,High,Priority 3 - manager check-in,Works overtime; Low environment satisfaction
-184,Human Resources,Human Resources,Yes,Travel_Rarely,6347,11,4,3,1,No,0,0.6311877263567015,3,High,Priority 3 - manager check-in,Works overtime; Low work-life balance; Long promotion gap; No stock option
+184,Human Resources,Human Resources,Yes,Travel_Rarely,6347,11,4,3,1,No,0,0.6311877263567014,3,High,Priority 3 - manager check-in,Works overtime; Low work-life balance; Long promotion gap; No stock option
 549,Research & Development,Manager,No,Travel_Rarely,19566,29,1,1,1,No,0,0.6293892710509782,3,High,Priority 3 - manager check-in,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap; No stock option
 1974,Research & Development,Laboratory Technician,Yes,Travel_Rarely,1129,1,4,4,3,No,0,0.6287060948325284,3,High,Priority 3 - manager check-in,Works overtime; Early tenure
 396,Research & Development,Research Director,Yes,Travel_Frequently,18665,3,1,3,3,No,0,0.6279095199630699,3,High,Priority 3 - manager check-in,Works overtime; Frequent business travel; Low job satisfaction; No stock option
@@ -320,7 +320,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 927,Research & Development,Laboratory Technician,Yes,Travel_Rarely,2778,7,4,2,2,Yes,1,0.6146096768476559,3,High,Priority 3 - manager check-in,Works overtime; Low environment satisfaction; Low work-life balance
 376,Research & Development,Manager,Yes,Non-Travel,11849,10,2,1,2,Yes,1,0.6145647869142039,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap
 1568,Sales,Sales Executive,No,Travel_Rarely,9250,4,2,3,3,No,0,0.6144955680287378,3,High,Priority 3 - manager check-in,Low job satisfaction
-585,Sales,Sales Representative,No,Travel_Rarely,2983,3,2,4,3,No,0,0.6135128847119777,3,High,Priority 3 - manager check-in,Low job satisfaction; No stock option
+585,Sales,Sales Representative,No,Travel_Rarely,2983,3,2,4,3,No,0,0.6135128847119776,3,High,Priority 3 - manager check-in,Low job satisfaction; No stock option
 856,Research & Development,Research Scientist,No,Travel_Rarely,2559,6,1,3,2,No,0,0.6113027147736619,3,High,Priority 3 - manager check-in,Low job satisfaction; Low work-life balance; No stock option
 297,Research & Development,Research Scientist,Yes,Travel_Rarely,2657,5,1,4,3,Yes,1,0.6109298832261074,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; No stock option
 1987,Human Resources,Human Resources,No,Travel_Rarely,2187,2,2,3,3,No,0,0.6093442402235212,3,High,Priority 3 - manager check-in,Low job satisfaction; Early tenure; No stock option
@@ -330,7 +330,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 792,Research & Development,Laboratory Technician,No,Travel_Frequently,4364,2,4,1,3,No,0,0.6053653086563935,3,High,Priority 3 - manager check-in,Frequent business travel; Low environment satisfaction; Early tenure
 1556,Sales,Sales Representative,Yes,Travel_Rarely,2644,3,4,3,2,No,0,0.605301097239844,3,High,Priority 3 - manager check-in,Works overtime; Low work-life balance; No stock option
 291,Sales,Sales Executive,No,Travel_Rarely,10400,14,4,4,2,Yes,1,0.6041331009316149,3,High,Priority 3 - manager check-in,Low work-life balance; Long promotion gap; No stock option
-913,Research & Development,Research Scientist,Yes,Travel_Rarely,2559,8,1,2,3,No,0,0.6015094927607784,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; Low environment satisfaction; Long promotion gap; No stock option
+913,Research & Development,Research Scientist,Yes,Travel_Rarely,2559,8,1,2,3,No,0,0.6015094927607785,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; Low environment satisfaction; Long promotion gap; No stock option
 1281,Sales,Sales Executive,Yes,Travel_Rarely,4538,3,1,3,3,No,0,0.6002680438947552,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; No stock option
 747,Sales,Sales Executive,No,Travel_Rarely,5304,8,4,3,2,No,0,0.600179290892849,3,High,Priority 3 - manager check-in,Low work-life balance; Long promotion gap
 1239,Sales,Sales Executive,No,Travel_Rarely,6852,5,2,2,4,No,0,0.599914208126587,3,High,Priority 3 - manager check-in,Low job satisfaction; Low environment satisfaction
@@ -378,7 +378,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 399,Sales,Sales Representative,No,Travel_Frequently,2789,2,2,4,2,No,0,0.5544846872874996,3,High,Priority 3 - manager check-in,Frequent business travel; Low job satisfaction; Low work-life balance; Early tenure
 79,Research & Development,Laboratory Technician,No,Travel_Frequently,2406,10,4,4,3,No,0,0.5525757733821883,3,High,Priority 3 - manager check-in,Frequent business travel; Long promotion gap; No stock option
 74,Sales,Sales Executive,No,Travel_Frequently,9069,9,1,2,2,No,0,0.5516354273779567,3,High,Priority 3 - manager check-in,Frequent business travel; Low job satisfaction; Low environment satisfaction; Low work-life balance
-1865,Human Resources,Human Resources,No,Travel_Rarely,2804,1,2,4,3,No,0,0.550606018992003,3,High,Priority 3 - manager check-in,Low job satisfaction; Early tenure; No stock option
+1865,Human Resources,Human Resources,No,Travel_Rarely,2804,1,2,4,3,No,0,0.5506060189920029,3,High,Priority 3 - manager check-in,Low job satisfaction; Early tenure; No stock option
 1502,Research & Development,Laboratory Technician,No,Travel_Rarely,3838,5,2,1,3,No,0,0.5473390104003092,3,High,Priority 3 - manager check-in,Low job satisfaction; Low environment satisfaction; No stock option
 760,Human Resources,Human Resources,No,Travel_Rarely,6389,8,2,3,1,No,0,0.5466715914804724,3,High,Priority 3 - manager check-in,Low job satisfaction; Low work-life balance
 1395,Sales,Sales Executive,No,Travel_Frequently,9998,5,4,2,4,No,0,0.546496420975206,3,High,Priority 3 - manager check-in,Frequent business travel; Low environment satisfaction; No stock option
@@ -407,7 +407,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1234,Research & Development,Laboratory Technician,No,Travel_Frequently,2743,2,2,3,3,No,0,0.5181809607279615,3,High,Priority 3 - manager check-in,Frequent business travel; Low job satisfaction; Early tenure
 214,Research & Development,Research Scientist,Yes,Travel_Rarely,3346,1,2,2,2,No,0,0.5158129858764423,3,High,Priority 3 - manager check-in,Works overtime; Low job satisfaction; Low environment satisfaction; Low work-life balance; Early tenure
 1211,Sales,Sales Executive,No,Travel_Rarely,4115,4,1,3,3,No,0,0.5147597079169333,3,High,Priority 3 - manager check-in,Low job satisfaction
-848,Research & Development,Research Scientist,Yes,Travel_Frequently,2366,8,3,3,3,Yes,1,0.5138131718959229,3,High,Priority 3 - manager check-in,Works overtime; Frequent business travel
+848,Research & Development,Research Scientist,Yes,Travel_Frequently,2366,8,3,3,3,Yes,1,0.5138131718959228,3,High,Priority 3 - manager check-in,Works overtime; Frequent business travel
 604,Sales,Sales Executive,Yes,Travel_Rarely,6582,6,4,2,4,No,0,0.513487117474726,3,High,Priority 3 - manager check-in,Works overtime; Low environment satisfaction; No stock option
 7,Research & Development,Laboratory Technician,No,Travel_Rarely,3468,2,2,1,3,No,0,0.5124005518646985,3,High,Priority 3 - manager check-in,Low job satisfaction; Low environment satisfaction; Early tenure
 80,Research & Development,Research Director,Yes,Travel_Rarely,18740,27,3,2,2,No,0,0.5106712320909371,3,High,Priority 3 - manager check-in,Works overtime; Low environment satisfaction; Low work-life balance; Long promotion gap
@@ -494,7 +494,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1106,Research & Development,Laboratory Technician,Yes,Travel_Rarely,3691,7,4,4,4,Yes,1,0.4429809473851232,4,Elevated,Monitor,Works overtime; Long promotion gap
 644,Human Resources,Manager,No,Travel_Frequently,18200,32,2,1,3,No,0,0.43967091138179343,4,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Long promotion gap
 1080,Research & Development,Research Scientist,Yes,Travel_Rarely,4615,16,1,4,3,No,0,0.43831722684065577,4,Elevated,Monitor,Works overtime; Low job satisfaction
-1927,Sales,Sales Executive,Yes,Travel_Frequently,6834,7,4,3,3,No,0,0.4360654111429724,4,Elevated,Monitor,Works overtime; Frequent business travel
+1927,Sales,Sales Executive,Yes,Travel_Frequently,6834,7,4,3,3,No,0,0.4360654111429725,4,Elevated,Monitor,Works overtime; Frequent business travel
 1285,Research & Development,Laboratory Technician,No,Travel_Frequently,4444,11,2,3,4,No,0,0.43600636478289656,4,Elevated,Monitor,Frequent business travel; Low job satisfaction; Long promotion gap
 207,Sales,Sales Executive,No,Travel_Frequently,8998,9,4,2,3,No,0,0.4358734032919231,4,Elevated,Monitor,Frequent business travel; Low environment satisfaction; No stock option
 682,Sales,Sales Executive,No,Travel_Rarely,8381,14,1,4,4,No,0,0.4357623854125859,4,Elevated,Monitor,Low job satisfaction; Long promotion gap; No stock option
@@ -522,7 +522,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 2054,Research & Development,Research Scientist,No,Travel_Rarely,3785,5,1,4,1,No,0,0.42289956332698503,4,Elevated,Monitor,Low job satisfaction; Low work-life balance; No stock option
 1994,Research & Development,Laboratory Technician,No,Non-Travel,2008,1,3,2,2,No,0,0.4213450382430352,4,Elevated,Monitor,Low environment satisfaction; Low work-life balance; Early tenure
 1118,Research & Development,Healthcare Representative,No,Travel_Rarely,10445,8,2,2,3,No,0,0.4209067954115629,4,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap; No stock option
-568,Sales,Manager,No,Travel_Rarely,14118,1,4,1,2,No,0,0.4204493986172557,4,Elevated,Monitor,Low environment satisfaction; Low work-life balance; Early tenure
+568,Sales,Manager,No,Travel_Rarely,14118,1,4,1,2,No,0,0.4204493986172558,4,Elevated,Monitor,Low environment satisfaction; Low work-life balance; Early tenure
 805,Sales,Sales Representative,No,Travel_Rarely,2572,3,4,1,2,No,0,0.4194212031242397,4,Elevated,Monitor,Low environment satisfaction; Low work-life balance
 1467,Human Resources,Human Resources,No,Travel_Rarely,2742,2,3,1,3,Yes,1,0.4193274171486939,4,Elevated,Monitor,Low environment satisfaction; Early tenure; No stock option
 1212,Sales,Sales Executive,No,Travel_Frequently,4327,0,2,2,3,No,0,0.41858408641038014,4,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Early tenure
@@ -542,7 +542,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 16,Research & Development,Research Scientist,No,Travel_Rarely,2911,5,3,1,2,No,0,0.40599757331797726,4,Elevated,Monitor,Low environment satisfaction; Low work-life balance; Long promotion gap
 118,Sales,Sales Executive,No,Travel_Rarely,9619,9,4,3,3,Yes,1,0.4044747554131025,4,Elevated,Monitor,Long promotion gap; No stock option
 731,Human Resources,Manager,No,Travel_Rarely,19141,21,4,2,2,No,0,0.40392867236460245,4,Elevated,Monitor,Low environment satisfaction; Low work-life balance; Long promotion gap
-1875,Sales,Sales Representative,No,Travel_Rarely,2856,1,2,2,3,No,0,0.4035401854299615,4,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
+1875,Sales,Sales Representative,No,Travel_Rarely,2856,1,2,2,3,No,0,0.40354018542996156,4,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
 967,Sales,Sales Executive,Yes,Travel_Rarely,10325,16,4,3,3,Yes,1,0.40310817982745595,4,Elevated,Monitor,Works overtime
 983,Sales,Sales Executive,Yes,Non-Travel,5666,5,4,3,3,No,0,0.40268598753340734,4,Elevated,Monitor,Works overtime; No stock option
 141,Research & Development,Research Director,Yes,Travel_Frequently,18172,8,2,1,2,No,0,0.39937006917499207,4,Elevated,Monitor,Works overtime; Frequent business travel; Low job satisfaction; Low environment satisfaction; Low work-life balance
@@ -574,12 +574,12 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1448,Research & Development,Research Scientist,Yes,Travel_Rarely,2127,4,3,2,2,No,0,0.37378212806292427,4,Elevated,Monitor,Works overtime; Low environment satisfaction; Low work-life balance; No stock option
 1807,Research & Development,Laboratory Technician,No,Travel_Frequently,5346,7,1,4,2,Yes,1,0.3726384433404893,4,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance
 1298,Research & Development,Manufacturing Director,Yes,Non-Travel,4695,8,3,3,3,No,0,0.3725612617047626,4,Elevated,Monitor,Works overtime; No stock option
-1966,Research & Development,Manufacturing Director,No,Travel_Rarely,9679,1,4,4,3,No,0,0.3719115357017302,4,Elevated,Monitor,Early tenure; No stock option
+1966,Research & Development,Manufacturing Director,No,Travel_Rarely,9679,1,4,4,3,No,0,0.37191153570173013,4,Elevated,Monitor,Early tenure; No stock option
 1708,Sales,Sales Executive,No,Travel_Rarely,9241,10,3,4,3,No,0,0.3705365109912067,4,Elevated,Monitor,Long promotion gap; No stock option
 1321,Research & Development,Manager,Yes,Travel_Rarely,11916,9,1,2,3,No,0,0.37041407659446224,4,Elevated,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction
 1760,Research & Development,Laboratory Technician,No,Travel_Frequently,2468,6,2,3,2,No,0,0.36940426829229006,4,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance
 73,Research & Development,Research Director,Yes,Travel_Frequently,13458,15,4,1,3,No,0,0.3666799465046889,4,Elevated,Monitor,Works overtime; Frequent business travel; Low environment satisfaction; Long promotion gap; No stock option
-406,Sales,Sales Executive,No,Travel_Rarely,8020,11,2,3,2,No,0,0.36451536596018497,4,Elevated,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap
+406,Sales,Sales Executive,No,Travel_Rarely,8020,11,2,3,2,No,0,0.3645153659601849,4,Elevated,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap
 88,Research & Development,Research Scientist,No,Travel_Frequently,2194,3,1,2,2,No,0,0.3642338468444413,4,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Low work-life balance
 804,Research & Development,Research Scientist,No,Travel_Rarely,4381,6,1,3,3,No,0,0.36368479002295595,4,Elevated,Monitor,Low job satisfaction; No stock option
 933,Research & Development,Research Scientist,No,Travel_Rarely,2318,1,3,2,3,No,0,0.3635701174570911,4,Elevated,Monitor,Low environment satisfaction; Early tenure; No stock option
@@ -600,11 +600,11 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1243,Sales,Sales Executive,Yes,Non-Travel,10377,13,4,3,2,No,0,0.34771338174493444,5,Elevated,Monitor,Works overtime; Low work-life balance; Long promotion gap
 1938,Sales,Manager,Yes,Travel_Rarely,17875,1,4,4,2,No,0,0.3449138828691322,5,Elevated,Monitor,Works overtime; Low work-life balance; Early tenure
 56,Sales,Sales Executive,No,Travel_Frequently,8726,9,3,4,3,No,0,0.34267397427691965,5,Elevated,Monitor,Frequent business travel; No stock option
-1425,Sales,Sales Executive,Yes,Travel_Rarely,9278,5,2,1,3,No,0,0.3425430611182363,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction; No stock option
-343,Research & Development,Healthcare Representative,No,Travel_Frequently,10938,19,3,3,3,No,0,0.3417336570775813,5,Elevated,Monitor,Frequent business travel; Long promotion gap; No stock option
+1425,Sales,Sales Executive,Yes,Travel_Rarely,9278,5,2,1,3,No,0,0.34254306111823624,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction; No stock option
+343,Research & Development,Healthcare Representative,No,Travel_Frequently,10938,19,3,3,3,No,0,0.34173365707758124,5,Elevated,Monitor,Frequent business travel; Long promotion gap; No stock option
 780,Research & Development,Research Scientist,Yes,Travel_Rarely,2686,10,4,4,2,Yes,1,0.33885507908966334,5,Elevated,Monitor,Works overtime; Low work-life balance; Long promotion gap; No stock option
 1127,Research & Development,Healthcare Representative,No,Travel_Frequently,12169,18,4,1,3,Yes,1,0.3378056560091605,5,Elevated,Monitor,Frequent business travel; Low environment satisfaction; Long promotion gap
-211,Research & Development,Manufacturing Director,No,Travel_Rarely,6132,1,3,2,3,No,0,0.3363510847032998,5,Elevated,Monitor,Low environment satisfaction; Early tenure; No stock option
+211,Research & Development,Manufacturing Director,No,Travel_Rarely,6132,1,3,2,3,No,0,0.3363510847032997,5,Elevated,Monitor,Low environment satisfaction; Early tenure; No stock option
 1779,Sales,Sales Executive,No,Travel_Rarely,6029,2,4,4,3,No,0,0.33545880311641857,5,Elevated,Monitor,Early tenure; No stock option
 134,Research & Development,Research Scientist,No,Travel_Rarely,2956,1,1,4,3,No,0,0.3346368183122415,5,Elevated,Monitor,Low job satisfaction; Early tenure; No stock option
 974,Sales,Sales Representative,No,Travel_Frequently,2157,3,4,3,3,No,0,0.3342238692114171,5,Elevated,Monitor,Frequent business travel
@@ -616,33 +616,33 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 305,Research & Development,Research Scientist,No,Travel_Rarely,2622,3,2,3,3,No,0,0.3293738598194607,5,Elevated,Monitor,Low job satisfaction; No stock option
 605,Research & Development,Manufacturing Director,Yes,Travel_Rarely,7406,10,1,4,2,No,0,0.3293461029253604,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low work-life balance; Long promotion gap
 1200,Research & Development,Research Scientist,Yes,Travel_Rarely,2936,6,3,3,3,Yes,1,0.32914200273064614,5,Elevated,Monitor,Works overtime; No stock option
-31,Research & Development,Research Scientist,No,Travel_Rarely,2960,4,1,2,3,Yes,1,0.3291372220153752,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
+31,Research & Development,Research Scientist,No,Travel_Rarely,2960,4,1,2,3,Yes,1,0.32913722201537515,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
 910,Human Resources,Human Resources,Yes,Travel_Rarely,2277,4,2,4,4,No,0,0.3289033249571646,5,Elevated,Monitor,Works overtime; Low job satisfaction
 283,Sales,Sales Executive,No,Travel_Rarely,7639,10,4,2,2,Yes,1,0.3285421874524555,5,Elevated,Monitor,Low environment satisfaction; Low work-life balance
-1753,Research & Development,Healthcare Representative,Yes,Travel_Frequently,6294,3,3,4,4,No,0,0.32822485895855597,5,Elevated,Monitor,Works overtime; Frequent business travel; No stock option
+1753,Research & Development,Healthcare Representative,Yes,Travel_Frequently,6294,3,3,4,4,No,0,0.328224858958556,5,Elevated,Monitor,Works overtime; Frequent business travel; No stock option
 70,Research & Development,Healthcare Representative,Yes,Non-Travel,9884,4,1,3,3,No,0,0.3278959989106959,5,Elevated,Monitor,Works overtime; Low job satisfaction
 1050,Sales,Sales Executive,No,Travel_Frequently,7525,15,2,3,3,No,0,0.3274852077526992,5,Elevated,Monitor,Frequent business travel; Low job satisfaction; Long promotion gap
 1042,Research & Development,Laboratory Technician,No,Travel_Rarely,2743,17,1,3,3,Yes,1,0.3253530333181619,5,Elevated,Monitor,Low job satisfaction; Long promotion gap; No stock option
 2018,Sales,Sales Executive,Yes,Travel_Rarely,4907,5,3,1,2,No,0,0.32482375435709915,5,Elevated,Monitor,Works overtime; Low environment satisfaction; Low work-life balance
 388,Sales,Sales Executive,No,Travel_Frequently,4554,10,4,2,2,No,0,0.3246894631216413,5,Elevated,Monitor,Frequent business travel; Low environment satisfaction; Low work-life balance; No stock option
-1694,Research & Development,Research Scientist,No,Travel_Rarely,3537,4,2,1,3,No,0,0.3244462809188351,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction
-1956,Research & Development,Research Scientist,No,Travel_Frequently,5003,10,1,4,3,No,0,0.32391143761009317,5,Elevated,Monitor,Frequent business travel; Low job satisfaction; Long promotion gap; No stock option
-1049,Human Resources,Human Resources,No,Travel_Rarely,2177,6,2,2,3,No,0,0.32366939284232593,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
+1694,Research & Development,Research Scientist,No,Travel_Rarely,3537,4,2,1,3,No,0,0.32444628091883515,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction
+1956,Research & Development,Research Scientist,No,Travel_Frequently,5003,10,1,4,3,No,0,0.3239114376100932,5,Elevated,Monitor,Frequent business travel; Low job satisfaction; Long promotion gap; No stock option
+1049,Human Resources,Human Resources,No,Travel_Rarely,2177,6,2,2,3,No,0,0.323669392842326,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
 916,Sales,Sales Executive,No,Travel_Rarely,4908,4,4,1,3,No,0,0.3223846028279273,5,Elevated,Monitor,Low environment satisfaction; No stock option
 536,Research & Development,Laboratory Technician,No,Travel_Rarely,4558,10,1,3,3,No,0,0.32135517912229067,5,Elevated,Monitor,Low job satisfaction
 667,Sales,Sales Representative,No,Travel_Rarely,3041,4,1,3,3,Yes,1,0.3196487737243213,5,Elevated,Monitor,Low job satisfaction
-244,Sales,Sales Executive,No,Travel_Rarely,10453,24,1,2,3,No,0,0.3194727705075789,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
+244,Sales,Sales Executive,No,Travel_Rarely,10453,24,1,2,3,No,0,0.31947277050757883,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
 1260,Research & Development,Healthcare Representative,Yes,Travel_Rarely,6623,6,4,3,3,No,0,0.31858015905767645,5,Elevated,Monitor,Works overtime
 1371,Sales,Sales Executive,No,Travel_Frequently,5071,6,4,4,3,No,0,0.31756643031072074,5,Elevated,Monitor,Frequent business travel; No stock option
 1622,Research & Development,Manufacturing Director,No,Travel_Rarely,4877,5,1,2,2,No,0,0.3174743359774316,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance
 776,Sales,Manager,No,Travel_Rarely,16856,34,1,3,4,No,0,0.3171945399269931,5,Elevated,Monitor,Low job satisfaction; No stock option
-861,Research & Development,Research Scientist,No,Travel_Frequently,3761,5,4,2,2,No,0,0.31668255295750464,5,Elevated,Monitor,Frequent business travel; Low environment satisfaction; Low work-life balance
+861,Research & Development,Research Scientist,No,Travel_Frequently,3761,5,4,2,2,No,0,0.3166825529575046,5,Elevated,Monitor,Frequent business travel; Low environment satisfaction; Low work-life balance
 825,Research & Development,Research Director,Yes,Travel_Rarely,19246,31,2,4,3,Yes,1,0.31514574198642714,5,Elevated,Monitor,Works overtime; Low job satisfaction; Long promotion gap; No stock option
 407,Research & Development,Laboratory Technician,No,Travel_Frequently,3688,1,4,3,3,No,0,0.3148968625297827,5,Elevated,Monitor,Frequent business travel; Early tenure
 1032,Research & Development,Manufacturing Director,Yes,Travel_Rarely,13726,5,4,3,3,No,0,0.31435095240367267,5,Elevated,Monitor,Works overtime; Long promotion gap; No stock option
-511,Research & Development,Research Scientist,No,Travel_Rarely,2244,2,2,1,3,No,0,0.3130898114268401,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
+511,Research & Development,Research Scientist,No,Travel_Rarely,2244,2,2,1,3,No,0,0.31308981142684006,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
 728,Sales,Sales Executive,No,Travel_Rarely,4960,7,1,4,3,No,0,0.3127885841105778,5,Elevated,Monitor,Low job satisfaction; No stock option
-1150,Research & Development,Manufacturing Director,Yes,Travel_Rarely,5056,10,4,2,2,No,0,0.31209123526621274,5,Elevated,Monitor,Works overtime; Low environment satisfaction; Low work-life balance
+1150,Research & Development,Manufacturing Director,Yes,Travel_Rarely,5056,10,4,2,2,No,0,0.3120912352662127,5,Elevated,Monitor,Works overtime; Low environment satisfaction; Low work-life balance
 716,Research & Development,Laboratory Technician,Yes,Travel_Rarely,3221,20,3,4,3,No,0,0.3111468609442026,5,Elevated,Monitor,Works overtime
 1457,Sales,Sales Executive,No,Travel_Rarely,10096,7,4,1,4,Yes,1,0.31062635374010883,5,Elevated,Monitor,Low environment satisfaction; Long promotion gap
 198,Research & Development,Laboratory Technician,No,Travel_Rarely,2720,5,4,2,3,No,0,0.3106076631078015,5,Elevated,Monitor,Low environment satisfaction; No stock option
@@ -658,44 +658,44 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 686,Research & Development,Laboratory Technician,Yes,Travel_Rarely,2659,3,4,3,3,No,0,0.3018873267207326,5,Elevated,Monitor,Works overtime
 1766,Research & Development,Healthcare Representative,Yes,Travel_Rarely,5811,1,4,2,3,No,0,0.301625745051931,5,Elevated,Monitor,Works overtime; Low environment satisfaction; Early tenure
 1724,Research & Development,Manufacturing Director,Yes,Travel_Rarely,6516,1,1,2,3,No,0,0.30075341621641444,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction; Early tenure
-1073,Research & Development,Manufacturing Director,No,Travel_Rarely,8858,14,4,4,2,No,0,0.2998291328452054,5,Elevated,Monitor,Low work-life balance; Long promotion gap; No stock option
-1527,Sales,Manager,No,Travel_Rarely,16606,13,2,3,4,No,0,0.29930514361053445,5,Elevated,Monitor,Low job satisfaction; Long promotion gap
+1073,Research & Development,Manufacturing Director,No,Travel_Rarely,8858,14,4,4,2,No,0,0.29982913284520546,5,Elevated,Monitor,Low work-life balance; Long promotion gap; No stock option
+1527,Sales,Manager,No,Travel_Rarely,16606,13,2,3,4,No,0,0.2993051436105344,5,Elevated,Monitor,Low job satisfaction; Long promotion gap
 1542,Research & Development,Laboratory Technician,No,Travel_Rarely,4841,1,2,3,3,No,0,0.29909707096074667,5,Elevated,Monitor,Low job satisfaction; Early tenure
 314,Sales,Sales Executive,No,Travel_Frequently,8789,10,3,3,4,No,0,0.2987267308292026,5,Elevated,Monitor,Frequent business travel; No stock option
-2038,Research & Development,Research Scientist,No,Travel_Rarely,2439,4,1,4,3,No,0,0.2986501321546602,5,Elevated,Monitor,Low job satisfaction; No stock option
-12,Research & Development,Manufacturing Director,No,Travel_Frequently,9526,9,3,4,3,No,0,0.297482893053861,5,Elevated,Monitor,Frequent business travel; No stock option
+2038,Research & Development,Research Scientist,No,Travel_Rarely,2439,4,1,4,3,No,0,0.29865013215466013,5,Elevated,Monitor,Low job satisfaction; No stock option
+12,Research & Development,Manufacturing Director,No,Travel_Frequently,9526,9,3,4,3,No,0,0.29748289305386094,5,Elevated,Monitor,Frequent business travel; No stock option
 652,Research & Development,Laboratory Technician,No,Travel_Rarely,3681,3,4,1,3,No,0,0.2974369624656728,5,Elevated,Monitor,Low environment satisfaction; No stock option
 864,Sales,Sales Executive,Yes,Travel_Rarely,10761,5,1,4,3,No,0,0.29655396850063614,5,Elevated,Monitor,Works overtime; Low job satisfaction
 829,Human Resources,Human Resources,No,Travel_Rarely,2143,5,2,3,3,No,0,0.2965268657483715,5,Elevated,Monitor,Low job satisfaction
 1412,Research & Development,Manufacturing Director,No,Travel_Frequently,9362,2,4,3,3,No,0,0.295710345121757,5,Elevated,Monitor,Frequent business travel; Early tenure; No stock option
 97,Research & Development,Laboratory Technician,No,Travel_Rarely,3038,1,4,2,3,No,0,0.2948166872067049,5,Elevated,Monitor,Low environment satisfaction; Early tenure; No stock option
 900,Sales,Sales Representative,No,Travel_Frequently,2973,5,4,3,3,No,0,0.2926496193182521,5,Elevated,Monitor,Frequent business travel
-1864,Sales,Sales Representative,No,Travel_Rarely,3540,9,3,2,3,No,0,0.2925148170181178,5,Elevated,Monitor,Low environment satisfaction; Long promotion gap
+1864,Sales,Sales Representative,No,Travel_Rarely,3540,9,3,2,3,No,0,0.29251481701811777,5,Elevated,Monitor,Low environment satisfaction; Long promotion gap
 975,Sales,Sales Executive,No,Travel_Rarely,4601,5,3,3,3,No,0,0.291700596878816,5,Elevated,Monitor,No stock option
 2014,Research & Development,Research Scientist,No,Travel_Rarely,4108,7,4,1,3,No,0,0.29165709636912857,5,Elevated,Monitor,Low environment satisfaction; No stock option
 2064,Research & Development,Manufacturing Director,Yes,Travel_Rarely,6142,6,2,2,3,No,0,0.28929232120591886,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction
-1972,Human Resources,Human Resources,Yes,Travel_Frequently,2991,6,2,4,3,No,0,0.28869928863343436,5,Elevated,Monitor,Works overtime; Frequent business travel; Low job satisfaction
+1972,Human Resources,Human Resources,Yes,Travel_Frequently,2991,6,2,4,3,No,0,0.2886992886334344,5,Elevated,Monitor,Works overtime; Frequent business travel; Low job satisfaction
 878,Human Resources,Human Resources,No,Travel_Rarely,2342,5,1,1,3,No,0,0.28779915721879007,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
 889,Sales,Sales Executive,No,Travel_Frequently,6524,10,2,2,3,No,0,0.28757081093140285,5,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Long promotion gap
 862,Sales,Sales Executive,Yes,Travel_Rarely,10934,5,4,1,3,No,0,0.28727210104422074,5,Elevated,Monitor,Works overtime; Low environment satisfaction
 1252,Research & Development,Healthcare Representative,No,Travel_Rarely,6812,10,1,3,3,No,0,0.2866533513437476,5,Elevated,Monitor,Low job satisfaction; No stock option
 1548,Sales,Sales Executive,No,Travel_Rarely,5473,8,1,1,4,No,0,0.2861251887701504,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap; No stock option
 1562,Sales,Sales Executive,No,Travel_Rarely,9714,10,1,2,3,Yes,1,0.28592145888224174,5,Elevated,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
-1310,Research & Development,Research Scientist,No,Travel_Rarely,3904,5,1,3,3,Yes,1,0.2838842002945091,5,Elevated,Monitor,Low job satisfaction; No stock option
+1310,Research & Development,Research Scientist,No,Travel_Rarely,3904,5,1,3,3,Yes,1,0.28388420029450917,5,Elevated,Monitor,Low job satisfaction; No stock option
 2009,Research & Development,Healthcare Representative,Yes,Travel_Rarely,4878,9,4,2,3,No,0,0.28306722970919407,5,Elevated,Monitor,Works overtime; Low environment satisfaction; Long promotion gap
 1466,Sales,Sales Executive,No,Travel_Rarely,5486,2,1,3,3,No,0,0.28286551880846694,5,Elevated,Monitor,Low job satisfaction; Early tenure
 1324,Sales,Sales Executive,Yes,Non-Travel,9852,10,3,4,2,No,0,0.28245051385111125,5,Elevated,Monitor,Works overtime; Low work-life balance; Long promotion gap
 912,Research & Development,Laboratory Technician,No,Travel_Rarely,2532,4,4,1,3,No,0,0.2810369996251723,5,Elevated,Monitor,Low environment satisfaction
-449,Sales,Sales Executive,Yes,Non-Travel,6349,5,2,3,3,No,0,0.28016941139682633,5,Elevated,Monitor,Works overtime; Low job satisfaction
+449,Sales,Sales Executive,Yes,Non-Travel,6349,5,2,3,3,No,0,0.2801694113968263,5,Elevated,Monitor,Works overtime; Low job satisfaction
 662,Research & Development,Research Scientist,No,Travel_Rarely,2619,0,1,3,2,No,0,0.2798878341886527,5,Elevated,Monitor,Low job satisfaction; Low work-life balance; Early tenure; No stock option
 1479,Sales,Sales Executive,No,Travel_Rarely,5301,2,3,4,2,No,0,0.27919883219847713,5,Elevated,Monitor,Low work-life balance; Early tenure
-1969,Research & Development,Research Scientist,No,Travel_Rarely,2897,4,3,1,2,No,0,0.2780305928677063,5,Elevated,Monitor,Low environment satisfaction; Low work-life balance
+1969,Research & Development,Research Scientist,No,Travel_Rarely,2897,4,3,1,2,No,0,0.27803059286770626,5,Elevated,Monitor,Low environment satisfaction; Low work-life balance
 802,Research & Development,Research Scientist,Yes,Travel_Rarely,2782,5,1,4,2,No,0,0.27720707710308407,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low work-life balance; Long promotion gap
 1048,Sales,Manager,Yes,Travel_Rarely,11904,6,4,2,1,No,0,0.27583767677173754,5,Elevated,Monitor,Works overtime; Low environment satisfaction; Low work-life balance
 1882,Sales,Sales Executive,Yes,Travel_Rarely,9713,5,4,3,3,No,0,0.27567010430627104,5,Elevated,Monitor,Works overtime
 1529,Research & Development,Healthcare Representative,No,Travel_Rarely,8606,11,2,4,1,No,0,0.2752969393797829,5,Elevated,Monitor,Low job satisfaction; Low work-life balance; No stock option
 888,Research & Development,Laboratory Technician,No,Non-Travel,3162,5,4,1,2,No,0,0.2750599990429863,5,Elevated,Monitor,Low environment satisfaction; Low work-life balance; No stock option
-808,Sales,Sales Executive,No,Travel_Rarely,6500,3,1,3,3,No,0,0.27470214350032895,5,Elevated,Monitor,Low job satisfaction
+808,Sales,Sales Executive,No,Travel_Rarely,6500,3,1,3,3,No,0,0.2747021435003289,5,Elevated,Monitor,Low job satisfaction
 2049,Research & Development,Healthcare Representative,Yes,Travel_Frequently,5689,10,3,3,4,No,0,0.27302923599973333,5,Elevated,Monitor,Works overtime; Frequent business travel
 429,Research & Development,Manager,Yes,Travel_Rarely,17068,21,1,3,3,No,0,0.2726836886400857,5,Elevated,Monitor,Works overtime; Low job satisfaction; Long promotion gap; No stock option
 60,Sales,Sales Executive,No,Non-Travel,4568,9,3,2,3,No,0,0.271245660283719,5,Elevated,Monitor,Low environment satisfaction; Long promotion gap; No stock option
@@ -715,7 +715,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1597,Research & Development,Healthcare Representative,No,Travel_Frequently,5063,8,3,4,2,No,0,0.2606625210074028,5,Elevated,Monitor,Frequent business travel; Low work-life balance; Long promotion gap
 103,Human Resources,Human Resources,Yes,Travel_Rarely,5021,4,2,2,3,No,0,0.26059306145581507,5,Elevated,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction
 330,Sales,Sales Representative,No,Travel_Rarely,3931,4,2,3,3,No,0,0.25840913752639283,5,Elevated,Monitor,Low job satisfaction
-1306,Research & Development,Manager,No,Travel_Frequently,18061,0,2,2,3,No,0,0.25743293218876195,5,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Early tenure; No stock option
+1306,Research & Development,Manager,No,Travel_Frequently,18061,0,2,2,3,No,0,0.257432932188762,5,Elevated,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Early tenure; No stock option
 346,Research & Development,Research Scientist,No,Travel_Rarely,2340,6,4,3,3,No,0,0.25541295925403706,5,Elevated,Monitor,No stock option
 630,Research & Development,Research Scientist,Yes,Travel_Rarely,5577,10,1,4,3,No,0,0.25389008393500007,5,Elevated,Monitor,Works overtime; Low job satisfaction; Long promotion gap
 2019,Sales,Sales Representative,No,Non-Travel,3482,9,4,1,2,No,0,0.25332742452298135,5,Elevated,Monitor,Low environment satisfaction; Low work-life balance
@@ -732,18 +732,18 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 300,Research & Development,Research Scientist,No,Travel_Rarely,2058,6,3,3,2,Yes,1,0.24545688386521738,5,Low,Monitor,Low work-life balance; No stock option
 49,Sales,Sales Representative,No,Travel_Rarely,2014,2,4,4,3,No,0,0.24475946866386047,5,Low,Monitor,Early tenure; No stock option
 981,Sales,Manager,No,Travel_Rarely,14852,17,3,3,4,No,0,0.2432379229099722,5,Low,Monitor,Long promotion gap
-1074,Research & Development,Manager,No,Non-Travel,16756,9,1,3,4,No,0,0.24273329105949062,5,Low,Monitor,Low job satisfaction; Long promotion gap; No stock option
+1074,Research & Development,Manager,No,Non-Travel,16756,9,1,3,4,No,0,0.24273329105949065,5,Low,Monitor,Low job satisfaction; Long promotion gap; No stock option
 164,Research & Development,Research Scientist,No,Travel_Rarely,2368,5,2,3,2,No,0,0.2425468020739363,5,Low,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap; No stock option
 1024,Research & Development,Healthcare Representative,No,Travel_Rarely,10999,15,3,3,3,No,0,0.24242420421108316,6,Low,Monitor,Long promotion gap; No stock option
 507,Sales,Sales Executive,Yes,Travel_Rarely,4260,5,3,4,4,No,0,0.24206389650606644,6,Low,Monitor,Works overtime
-567,Sales,Sales Executive,No,Non-Travel,8412,9,1,3,3,No,0,0.23846446690007903,6,Low,Monitor,Low job satisfaction; Long promotion gap; No stock option
+567,Sales,Sales Executive,No,Non-Travel,8412,9,1,3,3,No,0,0.23846446690007897,6,Low,Monitor,Low job satisfaction; Long promotion gap; No stock option
 893,Sales,Sales Representative,No,Travel_Rarely,2899,2,2,2,3,No,0,0.2375677107363993,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
 1954,Research & Development,Healthcare Representative,No,Travel_Rarely,5373,5,1,1,2,No,0,0.2373268964310918,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance
 240,Sales,Sales Executive,Yes,Travel_Rarely,5006,5,1,3,4,No,0,0.23607272473311378,6,Low,Monitor,Works overtime; Low job satisfaction
 1945,Sales,Sales Executive,No,Travel_Rarely,5561,5,1,2,1,No,0,0.23474725307197736,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance
 656,Sales,Sales Executive,Yes,Travel_Rarely,9602,3,3,4,2,No,0,0.2346790161864048,6,Low,Monitor,Works overtime; Low work-life balance
 1770,Research & Development,Research Director,No,Travel_Rarely,19038,1,1,3,3,No,0,0.23467118611075444,6,Low,Monitor,Low job satisfaction; Early tenure
-775,Research & Development,Manufacturing Director,No,Travel_Rarely,5121,0,1,2,3,No,0,0.23418970105812786,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
+775,Research & Development,Manufacturing Director,No,Travel_Rarely,5121,0,1,2,3,No,0,0.2341897010581278,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
 1787,Sales,Sales Executive,No,Travel_Rarely,4189,5,2,2,3,No,0,0.23322098042687375,6,Low,Monitor,Low job satisfaction; Low environment satisfaction
 766,Sales,Sales Representative,No,Travel_Rarely,2297,2,2,4,3,No,0,0.2324421543656835,6,Low,Monitor,Low job satisfaction; Early tenure
 1890,Human Resources,Human Resources,No,Travel_Frequently,3886,10,4,2,2,No,0,0.23206687916894167,6,Low,Monitor,Frequent business travel; Low environment satisfaction; Low work-life balance; No stock option
@@ -761,7 +761,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 868,Sales,Sales Executive,No,Travel_Rarely,6334,1,3,4,3,No,0,0.22446827633556057,6,Low,Monitor,Early tenure
 101,Research & Development,Research Director,Yes,Travel_Rarely,13245,0,1,4,4,No,0,0.22375787526677154,6,Low,Monitor,Works overtime; Low job satisfaction; Early tenure; No stock option
 430,Research & Development,Laboratory Technician,No,Travel_Frequently,2455,8,4,3,3,No,0,0.22350705457798567,6,Low,Monitor,Frequent business travel; No stock option
-52,Sales,Sales Executive,No,Travel_Frequently,5376,5,1,3,3,No,0,0.22341793620559214,6,Low,Monitor,Frequent business travel; Low job satisfaction
+52,Sales,Sales Executive,No,Travel_Frequently,5376,5,1,3,3,No,0,0.22341793620559208,6,Low,Monitor,Frequent business travel; Low job satisfaction
 874,Research & Development,Laboratory Technician,Yes,Travel_Rarely,2818,3,4,1,2,No,0,0.2231064017091313,6,Low,Monitor,Works overtime; Low environment satisfaction; Low work-life balance
 24,Research & Development,Research Scientist,Yes,Travel_Rarely,3944,3,4,4,3,No,0,0.222844695497026,6,Low,Monitor,Works overtime; No stock option
 620,Sales,Sales Executive,No,Travel_Rarely,4859,5,3,1,3,No,0,0.22201002326955757,6,Low,Monitor,Low environment satisfaction; No stock option
@@ -773,7 +773,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1996,Sales,Sales Representative,No,Travel_Rarely,3067,2,3,1,3,No,0,0.2185780756321498,6,Low,Monitor,Low environment satisfaction; Early tenure
 1367,Research & Development,Manufacturing Director,No,Travel_Rarely,13142,5,2,4,2,No,0,0.21839363250458066,6,Low,Monitor,Low job satisfaction; Low work-life balance; No stock option
 230,Sales,Sales Executive,No,Travel_Rarely,8686,8,4,1,4,No,0,0.21791598227065445,6,Low,Monitor,Low environment satisfaction; No stock option
-470,Human Resources,Human Resources,Yes,Travel_Rarely,2696,3,3,3,3,No,0,0.21774733684686834,6,Low,Monitor,Works overtime
+470,Human Resources,Human Resources,Yes,Travel_Rarely,2696,3,3,3,3,No,0,0.21774733684686837,6,Low,Monitor,Works overtime
 221,Research & Development,Research Scientist,No,Travel_Rarely,2713,5,4,3,1,No,0,0.21699346683223714,6,Low,Monitor,Low work-life balance
 1543,Research & Development,Research Scientist,No,Travel_Rarely,4285,10,4,1,3,No,0,0.216966762354368,6,Low,Monitor,Low environment satisfaction; No stock option
 1545,Research & Development,Manufacturing Director,No,Travel_Rarely,4320,5,2,4,3,No,0,0.21601288786452916,6,Low,Monitor,Low job satisfaction; No stock option
@@ -782,7 +782,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 690,Sales,Sales Executive,No,Travel_Rarely,5561,6,3,2,2,No,0,0.2154763452567572,6,Low,Monitor,Low environment satisfaction; Low work-life balance
 580,Sales,Sales Executive,Yes,Travel_Rarely,9071,3,4,3,3,No,0,0.21533899204357562,6,Low,Monitor,Works overtime
 859,Sales,Sales Executive,No,Travel_Rarely,4403,5,4,2,2,No,0,0.21430504549926005,6,Low,Monitor,Low environment satisfaction; Low work-life balance
-1560,Sales,Sales Executive,No,Travel_Rarely,6392,2,1,1,1,No,0,0.212895525407114,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Early tenure
+1560,Sales,Sales Executive,No,Travel_Rarely,6392,2,1,1,1,No,0,0.21289552540711404,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Early tenure
 926,Research & Development,Manufacturing Director,Yes,Travel_Rarely,4171,3,3,2,4,Yes,1,0.21245465198462027,6,Low,Monitor,Works overtime; Low environment satisfaction
 1303,Research & Development,Research Scientist,No,Travel_Rarely,2096,2,2,4,2,No,0,0.21229693158226293,6,Low,Monitor,Low job satisfaction; Low work-life balance; Early tenure; No stock option
 169,Research & Development,Laboratory Technician,No,Travel_Rarely,2523,2,4,3,3,No,0,0.21226944982777474,6,Low,Monitor,Early tenure
@@ -792,11 +792,11 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 680,Research & Development,Research Scientist,No,Travel_Frequently,2083,1,3,3,3,No,0,0.2085949625367656,6,Low,Monitor,Frequent business travel; Early tenure
 1673,Sales,Sales Executive,No,Travel_Rarely,5476,10,4,1,3,No,0,0.2074485276676319,6,Low,Monitor,Low environment satisfaction
 14,Research & Development,Laboratory Technician,No,Travel_Rarely,2426,5,2,1,3,No,0,0.20737455070152988,6,Low,Monitor,Low job satisfaction; Low environment satisfaction
-828,Research & Development,Research Scientist,No,Travel_Rarely,4382,2,3,3,2,Yes,1,0.20691780347648264,6,Low,Monitor,Low work-life balance; Early tenure; No stock option
+828,Research & Development,Research Scientist,No,Travel_Rarely,4382,2,3,3,2,Yes,1,0.20691780347648267,6,Low,Monitor,Low work-life balance; Early tenure; No stock option
 231,Research & Development,Research Scientist,No,Travel_Rarely,3038,5,3,3,3,No,0,0.20670573902647935,6,Low,Monitor,No stock option
 1654,Research & Development,Manufacturing Director,No,Travel_Rarely,5295,5,2,4,3,No,0,0.20624562322683399,6,Low,Monitor,Low job satisfaction; No stock option
 1411,Research & Development,Laboratory Technician,No,Travel_Rarely,3629,3,3,1,3,No,0,0.2047481736060225,6,Low,Monitor,Low environment satisfaction; No stock option
-1235,Research & Development,Research Scientist,Yes,Travel_Frequently,4998,8,3,4,3,No,0,0.20465689866530626,6,Low,Monitor,Works overtime; Frequent business travel; No stock option
+1235,Research & Development,Research Scientist,Yes,Travel_Frequently,4998,8,3,4,3,No,0,0.20465689866530629,6,Low,Monitor,Works overtime; Frequent business travel; No stock option
 1601,Research & Development,Laboratory Technician,No,Travel_Rarely,2690,1,4,3,2,No,0,0.2030248598654668,6,Low,Monitor,Low work-life balance; Early tenure
 704,Research & Development,Laboratory Technician,No,Non-Travel,1281,1,3,3,3,No,0,0.2015271521858052,6,Low,Monitor,Early tenure
 1647,Research & Development,Research Scientist,No,Travel_Rarely,3517,3,3,2,3,No,0,0.20098158074940697,6,Low,Monitor,Low environment satisfaction; No stock option
@@ -817,17 +817,17 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1837,Research & Development,Research Director,Yes,Travel_Frequently,15787,2,3,1,3,No,0,0.1912740819031362,6,Low,Monitor,Works overtime; Frequent business travel; Low environment satisfaction; Early tenure; No stock option
 126,Research & Development,Research Director,No,Travel_Rarely,13549,4,3,1,1,No,0,0.19048902485798055,6,Low,Monitor,Low environment satisfaction; Low work-life balance
 105,Research & Development,Research Scientist,No,Travel_Rarely,2859,6,3,2,3,No,0,0.1903406433328349,6,Low,Monitor,Low environment satisfaction; No stock option
-529,Research & Development,Research Scientist,Yes,Non-Travel,4449,13,3,2,3,No,0,0.1899385050893988,6,Low,Monitor,Works overtime; Low environment satisfaction; Long promotion gap
+529,Research & Development,Research Scientist,Yes,Non-Travel,4449,13,3,2,3,No,0,0.18993850508939877,6,Low,Monitor,Works overtime; Low environment satisfaction; Long promotion gap
 176,Sales,Sales Executive,Yes,Travel_Rarely,8189,9,3,3,3,No,0,0.1896300632644273,6,Low,Monitor,Works overtime
-2060,Sales,Sales Representative,No,Travel_Rarely,2966,4,3,4,3,No,0,0.18958382769906998,6,Low,Monitor,No stock option
+2060,Sales,Sales Representative,No,Travel_Rarely,2966,4,3,4,3,No,0,0.18958382769907,6,Low,Monitor,No stock option
 1553,Research & Development,Healthcare Representative,No,Travel_Rarely,7441,10,2,1,3,No,0,0.18916766644854427,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
 1029,Sales,Manager,No,Travel_Rarely,18303,1,3,4,4,No,0,0.1890518989823636,6,Low,Monitor,Early tenure; No stock option
 2046,Sales,Sales Executive,No,Travel_Rarely,4850,5,3,4,3,No,0,0.18900865551296558,6,Low,Monitor,No stock option
 1105,Sales,Sales Executive,Yes,Travel_Rarely,6694,1,4,4,3,No,0,0.1886804433836251,6,Low,Monitor,Works overtime; Early tenure
-1152,Human Resources,Human Resources,No,Travel_Rarely,2844,7,3,3,4,No,0,0.18855017370369734,6,Low,Monitor,Long promotion gap
+1152,Human Resources,Human Resources,No,Travel_Rarely,2844,7,3,3,4,No,0,0.1885501737036973,6,Low,Monitor,Long promotion gap
 1947,Research & Development,Research Scientist,No,Non-Travel,2144,5,3,3,2,No,0,0.18849112382907718,6,Low,Monitor,Low work-life balance; No stock option
 1259,Research & Development,Research Scientist,No,Travel_Rarely,2517,5,3,1,3,No,0,0.18823340180958956,6,Low,Monitor,Low environment satisfaction
-1445,Sales,Sales Executive,Yes,Travel_Rarely,4162,5,3,4,3,No,0,0.1874083185642127,6,Low,Monitor,Works overtime
+1445,Sales,Sales Executive,Yes,Travel_Rarely,4162,5,3,4,3,No,0,0.18740831856421272,6,Low,Monitor,Works overtime
 1755,Research & Development,Research Scientist,Yes,Travel_Rarely,2932,5,4,4,3,No,0,0.1873814175789028,6,Low,Monitor,Works overtime
 1615,Research & Development,Manufacturing Director,No,Travel_Frequently,4724,9,4,3,3,No,0,0.1871631977435199,6,Low,Monitor,Frequent business travel; Long promotion gap
 571,Research & Development,Laboratory Technician,No,Non-Travel,2564,11,4,3,2,No,0,0.18627539678026964,6,Low,Monitor,Low work-life balance; Long promotion gap; No stock option
@@ -840,7 +840,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 153,Research & Development,Manager,No,Travel_Rarely,11631,11,1,3,3,No,0,0.18273980272141677,6,Low,Monitor,Low job satisfaction; Long promotion gap; No stock option
 1619,Research & Development,Laboratory Technician,No,Travel_Rarely,4066,7,1,4,3,No,0,0.18209885657552224,6,Low,Monitor,Low job satisfaction
 521,Research & Development,Laboratory Technician,No,Travel_Rarely,3448,1,3,2,3,No,0,0.1818490382245265,6,Low,Monitor,Low environment satisfaction; Early tenure
-158,Sales,Manager,Yes,Travel_Frequently,16959,25,4,3,4,No,0,0.18172343403026522,6,Low,Monitor,Works overtime; Frequent business travel; Long promotion gap
+158,Sales,Manager,Yes,Travel_Frequently,16959,25,4,3,4,No,0,0.18172343403026525,6,Low,Monitor,Works overtime; Frequent business travel; Long promotion gap
 1550,Human Resources,Manager,Yes,Travel_Rarely,16437,21,4,3,3,No,0,0.1815440541238503,6,Low,Monitor,Works overtime; Long promotion gap; No stock option
 381,Research & Development,Manager,No,Travel_Rarely,11996,7,2,2,2,No,0,0.18146127715680252,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap
 35,Sales,Sales Executive,No,Travel_Rarely,6825,9,2,3,3,No,0,0.18070710523400124,6,Low,Monitor,Low job satisfaction; Long promotion gap
@@ -848,7 +848,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1951,Sales,Sales Executive,No,Travel_Rarely,8628,8,3,4,2,No,0,0.18039321851826498,6,Low,Monitor,Low work-life balance
 621,Sales,Sales Executive,No,Travel_Rarely,5337,10,4,4,3,No,0,0.18028969421044766,6,Low,Monitor,Long promotion gap; No stock option
 813,Research & Development,Laboratory Technician,No,Travel_Rarely,3149,5,3,4,3,No,0,0.17996046434336813,6,Low,Monitor,No dominant heuristic risk driver
-495,Research & Development,Research Scientist,No,Travel_Rarely,2201,3,4,4,3,No,0,0.17947927593903906,6,Low,Monitor,No stock option
+495,Research & Development,Research Scientist,No,Travel_Rarely,2201,3,4,4,3,No,0,0.1794792759390391,6,Low,Monitor,No stock option
 425,Research & Development,Laboratory Technician,No,Travel_Frequently,5210,24,1,1,3,No,0,0.17946932331749152,6,Low,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction; Long promotion gap
 966,Research & Development,Manufacturing Director,No,Travel_Rarely,6725,8,1,3,4,No,0,0.1788145505244682,6,Low,Monitor,Low job satisfaction; Long promotion gap
 998,Research & Development,Healthcare Representative,Yes,Travel_Frequently,5488,6,2,3,3,No,0,0.17880678561620458,6,Low,Monitor,Works overtime; Frequent business travel; Low job satisfaction
@@ -858,13 +858,13 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1465,Research & Development,Manufacturing Director,Yes,Travel_Rarely,9380,3,4,2,4,No,0,0.17623404278278787,6,Low,Monitor,Works overtime; Low environment satisfaction
 787,Research & Development,Manager,Yes,Travel_Rarely,19859,5,1,4,3,Yes,1,0.17608209372796374,6,Low,Monitor,Works overtime; Low job satisfaction
 2065,Sales,Sales Executive,No,Travel_Frequently,5390,9,2,4,2,No,0,0.17607236008253016,6,Low,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance; No stock option
-119,Research & Development,Healthcare Representative,No,Travel_Frequently,13503,22,2,3,2,No,0,0.17510264571994064,6,Low,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance; Long promotion gap
+119,Research & Development,Healthcare Representative,No,Travel_Frequently,13503,22,2,3,2,No,0,0.17510264571994066,6,Low,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance; Long promotion gap
 1005,Research & Development,Manufacturing Director,Yes,Travel_Rarely,13973,12,3,4,3,No,0,0.17443105685152563,6,Low,Monitor,Works overtime
-1358,Research & Development,Laboratory Technician,No,Travel_Rarely,3669,3,4,4,2,No,0,0.17405766630534036,6,Low,Monitor,Low work-life balance
+1358,Research & Development,Laboratory Technician,No,Travel_Rarely,3669,3,4,4,2,No,0,0.1740576663053404,6,Low,Monitor,Low work-life balance
 597,Sales,Manager,No,Travel_Rarely,16835,10,2,1,3,No,0,0.17322240350937126,6,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap; No stock option
-872,Research & Development,Manufacturing Director,No,Travel_Rarely,4775,2,4,4,1,No,0,0.17305145736034874,6,Low,Monitor,Low work-life balance; Early tenure
+872,Research & Development,Manufacturing Director,No,Travel_Rarely,4775,2,4,4,1,No,0,0.17305145736034877,6,Low,Monitor,Low work-life balance; Early tenure
 1428,Sales,Sales Executive,No,Travel_Rarely,4779,3,1,4,3,No,0,0.17186028369725767,6,Low,Monitor,Low job satisfaction
-448,Research & Development,Laboratory Technician,No,Travel_Frequently,5257,9,3,3,4,No,0,0.1717408565469006,6,Low,Monitor,Frequent business travel
+448,Research & Development,Laboratory Technician,No,Travel_Frequently,5257,9,3,3,4,No,0,0.17174085654690058,6,Low,Monitor,Frequent business travel
 1993,Research & Development,Healthcare Representative,No,Travel_Rarely,8633,17,3,1,3,No,0,0.17153711583266026,6,Low,Monitor,Low environment satisfaction; Long promotion gap; No stock option
 1573,Research & Development,Manufacturing Director,No,Travel_Rarely,4855,5,2,3,3,Yes,1,0.17002079882439197,6,Low,Monitor,Low job satisfaction
 239,Research & Development,Laboratory Technician,No,Non-Travel,3072,12,1,3,3,No,0,0.16947907526794237,6,Low,Monitor,Low job satisfaction; Long promotion gap
@@ -886,15 +886,15 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1869,Sales,Sales Executive,No,Travel_Rarely,7314,8,2,3,3,Yes,1,0.16150986688125996,7,Low,Monitor,Low job satisfaction
 337,Research & Development,Research Director,No,Travel_Frequently,13675,2,3,2,3,No,0,0.16107791166783017,7,Low,Monitor,Frequent business travel; Low environment satisfaction; Early tenure
 757,Research & Development,Healthcare Representative,No,Travel_Rarely,6142,5,3,2,3,No,0,0.16006348183174468,7,Low,Monitor,Low environment satisfaction; Long promotion gap; No stock option
-1278,Research & Development,Healthcare Representative,Yes,Non-Travel,13577,33,2,4,3,No,0,0.15969156022361441,7,Low,Monitor,Works overtime; Low job satisfaction; Long promotion gap
+1278,Research & Development,Healthcare Representative,Yes,Non-Travel,13577,33,2,4,3,No,0,0.1596915602236144,7,Low,Monitor,Works overtime; Low job satisfaction; Long promotion gap
 800,Sales,Sales Executive,No,Travel_Frequently,4342,4,4,3,3,No,0,0.1595890393989758,7,Low,Monitor,Frequent business travel
 152,Sales,Sales Executive,No,Travel_Rarely,7428,5,4,3,3,No,0,0.15802805797145286,7,Low,Monitor,No stock option
 110,Research & Development,Manufacturing Director,No,Travel_Rarely,4325,5,2,1,3,No,0,0.15796941650365345,7,Low,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
-1681,Sales,Sales Executive,Yes,Non-Travel,5368,6,4,3,3,No,0,0.15786004101258455,7,Low,Monitor,Works overtime
+1681,Sales,Sales Executive,Yes,Non-Travel,5368,6,4,3,3,No,0,0.15786004101258458,7,Low,Monitor,Works overtime
 1084,Research & Development,Manufacturing Director,No,Travel_Rarely,9957,6,1,3,2,No,0,0.1575922934383014,7,Low,Monitor,Low job satisfaction; Low work-life balance
 1929,Sales,Sales Executive,No,Non-Travel,5736,3,3,1,3,No,0,0.1572052842245964,7,Low,Monitor,Low environment satisfaction
 193,Research & Development,Research Scientist,Yes,Travel_Rarely,4317,3,3,4,3,No,0,0.15594696526143803,7,Low,Monitor,Works overtime; No stock option
-1361,Research & Development,Laboratory Technician,No,Travel_Rarely,2387,4,2,2,3,No,0,0.1549292445007716,7,Low,Monitor,Low job satisfaction; Low environment satisfaction
+1361,Research & Development,Laboratory Technician,No,Travel_Rarely,2387,4,2,2,3,No,0,0.15492924450077164,7,Low,Monitor,Low job satisfaction; Low environment satisfaction
 649,Research & Development,Research Scientist,Yes,Travel_Rarely,3622,6,4,2,3,No,0,0.15426342429071174,7,Low,Monitor,Works overtime; Low environment satisfaction
 517,Research & Development,Laboratory Technician,No,Travel_Rarely,2576,5,1,2,3,No,0,0.1542461069752675,7,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1392,Research & Development,Research Scientist,Yes,Travel_Frequently,5467,6,4,4,2,No,0,0.15347516884631215,7,Low,Monitor,Works overtime; Frequent business travel; Low work-life balance
@@ -903,26 +903,26 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 615,Sales,Sales Executive,No,Non-Travel,10932,1,1,3,3,No,0,0.15025405889888704,7,Low,Monitor,Low job satisfaction; Early tenure
 18,Research & Development,Laboratory Technician,No,Travel_Rarely,2661,2,4,2,3,No,0,0.14960844256948805,7,Low,Monitor,Low environment satisfaction; Early tenure
 1291,Research & Development,Research Scientist,Yes,Travel_Rarely,3506,3,3,3,3,No,0,0.1494080999292759,7,Low,Monitor,Works overtime; No stock option
-1989,Research & Development,Laboratory Technician,No,Travel_Rarely,3748,12,2,4,2,No,0,0.14910650954926755,7,Low,Monitor,Low job satisfaction; Low work-life balance; No stock option
+1989,Research & Development,Laboratory Technician,No,Travel_Rarely,3748,12,2,4,2,No,0,0.14910650954926752,7,Low,Monitor,Low job satisfaction; Low work-life balance; No stock option
 1599,Research & Development,Laboratory Technician,No,Travel_Rarely,4876,6,2,4,3,No,0,0.14841087296203848,7,Low,Monitor,Low job satisfaction
 8,Research & Development,Laboratory Technician,No,Travel_Frequently,3068,7,4,4,2,No,0,0.14785919238664988,7,Low,Monitor,Frequent business travel; Low work-life balance; No stock option
 1015,Research & Development,Research Director,Yes,Travel_Rarely,11416,8,1,2,2,No,0,0.14766997742846188,7,Low,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction; Low work-life balance
 1786,Research & Development,Manager,No,Travel_Rarely,13116,2,3,1,3,No,0,0.14750436765423414,7,Low,Monitor,Low environment satisfaction; Early tenure; No stock option
 499,Research & Development,Healthcare Representative,No,Travel_Rarely,10965,5,3,2,3,No,0,0.14716370165636716,7,Low,Monitor,Low environment satisfaction; No stock option
-1256,Research & Development,Manager,No,Travel_Rarely,18711,1,3,1,4,No,0,0.14702501047321967,7,Low,Monitor,Low environment satisfaction; Early tenure
-1207,Human Resources,Human Resources,No,Travel_Rarely,3600,5,3,2,3,No,0,0.14664381291044168,7,Low,Monitor,Low environment satisfaction
-1809,Research & Development,Manufacturing Director,No,Travel_Rarely,4213,10,1,4,1,Yes,1,0.14601059206728353,7,Low,Monitor,Low job satisfaction; Low work-life balance; No stock option
+1256,Research & Development,Manager,No,Travel_Rarely,18711,1,3,1,4,No,0,0.14702501047321964,7,Low,Monitor,Low environment satisfaction; Early tenure
+1207,Human Resources,Human Resources,No,Travel_Rarely,3600,5,3,2,3,No,0,0.1466438129104417,7,Low,Monitor,Low environment satisfaction
+1809,Research & Development,Manufacturing Director,No,Travel_Rarely,4213,10,1,4,1,Yes,1,0.1460105920672835,7,Low,Monitor,Low job satisfaction; Low work-life balance; No stock option
 560,Research & Development,Research Scientist,No,Travel_Rarely,2886,3,4,1,1,No,0,0.14532786680467405,7,Low,Monitor,Low environment satisfaction; Low work-life balance
-53,Research & Development,Laboratory Technician,No,Travel_Rarely,1951,1,4,3,3,No,0,0.1450463606817194,7,Low,Monitor,Early tenure
+53,Research & Development,Laboratory Technician,No,Travel_Rarely,1951,1,4,3,3,No,0,0.14504636068171942,7,Low,Monitor,Early tenure
 1962,Sales,Sales Executive,Yes,Travel_Rarely,5204,10,4,3,3,No,0,0.14486443325442824,7,Low,Monitor,Works overtime; No stock option
 476,Sales,Sales Executive,No,Travel_Rarely,5296,8,3,3,3,No,0,0.1446658853529718,7,Low,Monitor,Long promotion gap
 228,Sales,Sales Executive,No,Travel_Rarely,9419,10,4,2,3,No,0,0.14439093334075484,7,Low,Monitor,Low environment satisfaction; Long promotion gap
-895,Research & Development,Research Scientist,Yes,Travel_Rarely,2356,6,4,4,3,No,0,0.14389526440625097,7,Low,Monitor,Works overtime
+895,Research & Development,Research Scientist,Yes,Travel_Rarely,2356,6,4,4,3,No,0,0.14389526440625094,7,Low,Monitor,Works overtime
 531,Research & Development,Manager,Yes,Travel_Frequently,19197,21,3,2,3,No,0,0.14361323025111533,7,Low,Monitor,Works overtime; Frequent business travel; Low environment satisfaction
 1803,Research & Development,Healthcare Representative,No,Travel_Rarely,5538,0,1,2,2,No,0,0.1434743888180432,7,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Early tenure
 1677,Research & Development,Manager,No,Travel_Rarely,15379,8,3,3,3,No,0,0.1422722250470393,7,Low,Monitor,No stock option
 1727,Research & Development,Healthcare Representative,No,Travel_Rarely,5562,10,2,3,3,No,0,0.14164283908359707,7,Low,Monitor,Low job satisfaction; No stock option
-350,Research & Development,Manufacturing Director,No,Travel_Rarely,4898,4,3,1,3,No,0,0.14098619305543364,7,Low,Monitor,Low environment satisfaction
+350,Research & Development,Manufacturing Director,No,Travel_Rarely,4898,4,3,1,3,No,0,0.14098619305543367,7,Low,Monitor,Low environment satisfaction
 665,Human Resources,Human Resources,No,Travel_Rarely,5985,2,3,1,4,No,0,0.14093193637361245,7,Low,Monitor,Low environment satisfaction; Early tenure; No stock option
 1478,Sales,Sales Executive,No,Travel_Rarely,4759,13,1,4,3,No,0,0.14051719305487476,7,Low,Monitor,Low job satisfaction; No stock option
 474,Research & Development,Research Scientist,Yes,Travel_Rarely,5974,7,1,3,3,No,0,0.14013277421978826,7,Low,Monitor,Works overtime; Low job satisfaction; Long promotion gap
@@ -934,12 +934,12 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 332,Research & Development,Laboratory Technician,No,Travel_Rarely,2232,3,3,3,3,No,0,0.1363527980816363,7,Low,Monitor,No dominant heuristic risk driver
 249,Research & Development,Laboratory Technician,No,Travel_Rarely,3690,3,3,3,2,No,0,0.13625051727151982,7,Low,Monitor,Low work-life balance
 1682,Research & Development,Healthcare Representative,No,Travel_Rarely,5347,3,3,1,2,No,0,0.13610047635256542,7,Low,Monitor,Low environment satisfaction; Low work-life balance
-1757,Sales,Sales Executive,No,Travel_Rarely,4507,5,4,4,4,No,0,0.135801892817316,7,Low,Monitor,No stock option
+1757,Sales,Sales Executive,No,Travel_Rarely,4507,5,4,4,4,No,0,0.13580189281731603,7,Low,Monitor,No stock option
 1308,Research & Development,Research Scientist,No,Travel_Rarely,2372,2,3,1,3,No,0,0.13480524173668287,7,Low,Monitor,Low environment satisfaction; Early tenure
-1092,Research & Development,Healthcare Representative,No,Travel_Rarely,10322,11,4,1,3,No,0,0.1345670200739743,7,Low,Monitor,Low environment satisfaction; Long promotion gap
+1092,Research & Development,Healthcare Representative,No,Travel_Rarely,10322,11,4,1,3,No,0,0.13456702007397428,7,Low,Monitor,Low environment satisfaction; Long promotion gap
 1124,Sales,Manager,No,Travel_Rarely,17465,12,3,1,3,No,0,0.13450572440221611,7,Low,Monitor,Low environment satisfaction; Long promotion gap
 1870,Research & Development,Research Scientist,No,Travel_Frequently,4774,7,1,4,2,No,0,0.1340267885608809,7,Low,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance; Long promotion gap
-1233,Sales,Sales Executive,Yes,Travel_Rarely,5220,11,4,2,3,No,0,0.13402443355438226,7,Low,Monitor,Works overtime; Low environment satisfaction
+1233,Sales,Sales Executive,Yes,Travel_Rarely,5220,11,4,2,3,No,0,0.1340244335543823,7,Low,Monitor,Works overtime; Low environment satisfaction
 1729,Research & Development,Research Scientist,No,Travel_Rarely,2862,10,4,2,2,No,0,0.13357399924493632,7,Low,Monitor,Low environment satisfaction; Low work-life balance
 1431,Research & Development,Research Scientist,No,Travel_Frequently,2996,4,1,4,3,No,0,0.13291603059451093,7,Low,Monitor,Frequent business travel; Low job satisfaction
 1815,Sales,Sales Executive,Yes,Travel_Rarely,10447,22,3,3,4,No,0,0.13275277130300842,7,Low,Monitor,Works overtime; Long promotion gap
@@ -948,9 +948,9 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 347,Research & Development,Research Scientist,Yes,Travel_Rarely,6545,3,1,4,3,No,0,0.13146540872353024,7,Low,Monitor,Works overtime; Low job satisfaction; No stock option
 721,Research & Development,Healthcare Representative,No,Travel_Rarely,4553,20,3,4,3,No,0,0.13144522299345937,7,Low,Monitor,Long promotion gap; No stock option
 379,Research & Development,Research Scientist,No,Travel_Rarely,3230,3,3,4,4,No,0,0.13126820508227163,7,Low,Monitor,No stock option
-1061,Research & Development,Research Director,Yes,Travel_Rarely,19237,8,3,2,2,No,0,0.1311864792462628,7,Low,Monitor,Works overtime; Low environment satisfaction; Low work-life balance; Long promotion gap
+1061,Research & Development,Research Director,Yes,Travel_Rarely,19237,8,3,2,2,No,0,0.13118647924626278,7,Low,Monitor,Works overtime; Low environment satisfaction; Low work-life balance; Long promotion gap
 1315,Research & Development,Laboratory Technician,No,Non-Travel,6674,9,4,3,3,No,0,0.13074003523684063,7,Low,Monitor,Long promotion gap
-1011,Research & Development,Manufacturing Director,No,Travel_Frequently,4148,4,1,3,3,No,0,0.13044650534367255,7,Low,Monitor,Frequent business travel; Low job satisfaction
+1011,Research & Development,Manufacturing Director,No,Travel_Frequently,4148,4,1,3,3,No,0,0.13044650534367258,7,Low,Monitor,Frequent business travel; Low job satisfaction
 293,Sales,Sales Executive,No,Travel_Frequently,9981,7,3,4,3,No,0,0.13043533264911436,7,Low,Monitor,Frequent business travel; No stock option
 523,Sales,Sales Executive,No,Non-Travel,6538,3,3,3,3,No,0,0.12977660324730794,7,Low,Monitor,No dominant heuristic risk driver
 1446,Sales,Sales Executive,No,Travel_Rarely,9204,4,4,4,2,No,0,0.1295734656751498,7,Low,Monitor,Low work-life balance
@@ -966,7 +966,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1547,Research & Development,Healthcare Representative,Yes,Travel_Frequently,10124,20,4,4,1,No,0,0.12432864080538841,7,Low,Monitor,Works overtime; Frequent business travel; Low work-life balance; Long promotion gap
 151,Research & Development,Research Scientist,No,Travel_Rarely,4505,1,2,3,3,No,0,0.12392025204385711,7,Low,Monitor,Low job satisfaction; Early tenure
 1859,Research & Development,Healthcare Representative,No,Travel_Rarely,6384,7,3,4,3,No,0,0.12365728222977937,7,Low,Monitor,No dominant heuristic risk driver
-334,Research & Development,Research Scientist,No,Travel_Rarely,3072,1,1,3,2,No,0,0.12356035166588496,7,Low,Monitor,Low job satisfaction; Low work-life balance; Early tenure
+334,Research & Development,Research Scientist,No,Travel_Rarely,3072,1,1,3,2,No,0,0.12356035166588498,7,Low,Monitor,Low job satisfaction; Low work-life balance; Early tenure
 177,Human Resources,Human Resources,No,Travel_Rarely,2942,8,3,3,3,No,0,0.1227502396367932,7,Low,Monitor,Long promotion gap
 664,Research & Development,Manager,No,Travel_Rarely,15402,3,1,4,1,No,0,0.1226961515867115,7,Low,Monitor,Low job satisfaction; Low work-life balance
 131,Sales,Sales Executive,No,Travel_Rarely,13872,37,3,4,2,No,0,0.12258895282052866,7,Low,Monitor,Low work-life balance; No stock option
@@ -977,7 +977,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 128,Sales,Sales Executive,No,Travel_Rarely,4999,3,3,1,2,No,0,0.12164642735477767,7,Low,Monitor,Low environment satisfaction; Low work-life balance
 458,Sales,Sales Executive,No,Travel_Rarely,6214,8,2,2,3,No,0,0.12011912165253019,7,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1918,Research & Development,Laboratory Technician,No,Travel_Frequently,2544,7,4,3,3,No,0,0.12003158846865304,7,Low,Monitor,Frequent business travel; Long promotion gap
-292,Research & Development,Manufacturing Director,No,Non-Travel,8474,11,3,3,3,No,0,0.11984025509242695,7,Low,Monitor,Long promotion gap; No stock option
+292,Research & Development,Manufacturing Director,No,Non-Travel,8474,11,3,3,3,No,0,0.11984025509242696,7,Low,Monitor,Long promotion gap; No stock option
 1689,Research & Development,Healthcare Representative,No,Travel_Rarely,7005,4,4,2,3,No,0,0.11955675718333213,7,Low,Monitor,Low environment satisfaction; No stock option
 491,Research & Development,Healthcare Representative,No,Travel_Rarely,10496,4,4,4,3,No,0,0.11924038967694393,7,Low,Monitor,No stock option
 439,Research & Development,Research Scientist,No,Travel_Rarely,5055,7,4,1,2,No,0,0.11900892117468688,7,Low,Monitor,Low environment satisfaction; Low work-life balance; No stock option
@@ -986,7 +986,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1598,Sales,Sales Executive,No,Travel_Rarely,4639,5,1,4,3,No,0,0.1180906480873315,7,Low,Monitor,Low job satisfaction
 1860,Research & Development,Laboratory Technician,No,Travel_Rarely,3968,0,3,4,3,No,0,0.11808877991998198,7,Low,Monitor,Early tenure; No stock option
 880,Research & Development,Manufacturing Director,Yes,Travel_Rarely,10685,17,3,4,3,No,0,0.11777939298850842,7,Low,Monitor,Works overtime; Long promotion gap
-148,Human Resources,Manager,Yes,Non-Travel,17328,5,4,4,3,No,0,0.11768065405105566,7,Low,Monitor,Works overtime; Long promotion gap; No stock option
+148,Human Resources,Manager,Yes,Non-Travel,17328,5,4,4,3,No,0,0.11768065405105568,7,Low,Monitor,Works overtime; Long promotion gap; No stock option
 1936,Research & Development,Manufacturing Director,No,Travel_Rarely,5151,10,1,1,3,No,0,0.11656867357306899,7,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
 423,Research & Development,Research Scientist,Yes,Travel_Rarely,4821,5,4,3,3,No,0,0.11612629552344698,7,Low,Monitor,Works overtime
 63,Research & Development,Laboratory Technician,No,Travel_Rarely,2269,1,4,4,3,No,0,0.11571278134621582,7,Low,Monitor,Early tenure; No stock option
@@ -998,7 +998,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 312,Sales,Sales Executive,No,Travel_Frequently,7918,11,4,2,3,No,0,0.11314393698034315,7,Low,Monitor,Frequent business travel; Low environment satisfaction; Long promotion gap
 245,Research & Development,Laboratory Technician,No,Travel_Rarely,2288,2,4,3,3,No,0,0.11291263506462668,7,Low,Monitor,Early tenure; No stock option
 309,Research & Development,Research Scientist,No,Travel_Rarely,2177,1,4,3,3,No,0,0.1126755907694202,7,Low,Monitor,Early tenure
-1873,Research & Development,Research Scientist,No,Travel_Rarely,2662,5,4,2,4,No,0,0.11246218131265814,7,Low,Monitor,Low environment satisfaction
+1873,Research & Development,Research Scientist,No,Travel_Rarely,2662,5,4,2,4,No,0,0.11246218131265812,7,Low,Monitor,Low environment satisfaction
 897,Sales,Sales Executive,No,Travel_Rarely,11836,2,4,1,3,No,0,0.11061233813447034,7,Low,Monitor,Low environment satisfaction; Early tenure
 420,Sales,Sales Executive,No,Travel_Rarely,5484,13,3,4,2,No,0,0.11034968193132104,7,Low,Monitor,Low work-life balance; Long promotion gap
 1497,Sales,Sales Executive,No,Travel_Rarely,8620,10,3,3,3,No,0,0.1100360323337022,7,Low,Monitor,No dominant heuristic risk driver
@@ -1008,7 +1008,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 985,Sales,Sales Executive,No,Travel_Rarely,7880,8,3,1,3,No,0,0.10819337070275224,7,Low,Monitor,Low environment satisfaction; No stock option
 1722,Human Resources,Human Resources,No,Non-Travel,6430,3,2,3,3,No,0,0.10818483007553283,7,Low,Monitor,Low job satisfaction
 102,Research & Development,Research Director,No,Travel_Rarely,13664,5,3,1,4,No,0,0.10774791548538017,7,Low,Monitor,Low environment satisfaction; No stock option
-1268,Sales,Sales Executive,Yes,Travel_Rarely,8380,9,3,4,3,No,0,0.10769301790920899,7,Low,Monitor,Works overtime
+1268,Sales,Sales Executive,Yes,Travel_Rarely,8380,9,3,4,3,No,0,0.107693017909209,7,Low,Monitor,Works overtime
 1038,Sales,Manager,No,Travel_Rarely,19845,32,4,1,3,Yes,1,0.10750883253947827,7,Low,Monitor,Low environment satisfaction; Long promotion gap
 1440,Research & Development,Laboratory Technician,No,Non-Travel,3500,6,3,3,1,No,0,0.10682797801873005,7,Low,Monitor,Low work-life balance; No stock option
 969,Research & Development,Healthcare Representative,No,Travel_Rarely,6949,5,4,2,3,No,0,0.10681246606256466,7,Low,Monitor,Low environment satisfaction; No stock option
@@ -1022,7 +1022,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1814,Research & Development,Healthcare Representative,No,Travel_Rarely,6870,3,2,2,1,No,0,0.10322526487835258,7,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; No stock option
 1582,Sales,Sales Executive,No,Travel_Rarely,9924,9,2,3,3,No,0,0.10214180014117094,7,Low,Monitor,Low job satisfaction; Long promotion gap
 820,Research & Development,Manager,Yes,Travel_Rarely,16752,26,4,3,2,No,0,0.10181996359862164,7,Low,Monitor,Works overtime; Low work-life balance
-241,Research & Development,Research Scientist,Yes,Travel_Rarely,4257,2,1,3,3,No,0,0.10145263139166988,7,Low,Monitor,Works overtime; Low job satisfaction; Early tenure
+241,Research & Development,Research Scientist,Yes,Travel_Rarely,4257,2,1,3,3,No,0,0.10145263139166986,7,Low,Monitor,Works overtime; Low job satisfaction; Early tenure
 692,Research & Development,Healthcare Representative,No,Travel_Frequently,7725,13,4,3,1,No,0,0.1012056625270155,7,Low,Monitor,Frequent business travel; Low work-life balance; Long promotion gap
 2,Research & Development,Research Scientist,No,Travel_Frequently,5130,10,2,3,3,No,0,0.10113221492611879,7,Low,Monitor,Frequent business travel; Low job satisfaction
 256,Research & Development,Manufacturing Director,No,Travel_Frequently,9547,10,3,4,2,No,0,0.100135723906586,7,Low,Monitor,Frequent business travel; Low work-life balance; No stock option
@@ -1050,15 +1050,15 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1628,Research & Development,Manufacturing Director,No,Travel_Rarely,10435,18,3,1,3,No,0,0.09265855903376502,8,Low,Monitor,Low environment satisfaction; Long promotion gap
 1578,Sales,Manager,No,Travel_Rarely,19586,36,4,3,3,No,0,0.09209681792979428,8,Low,Monitor,No dominant heuristic risk driver
 1802,Research & Development,Laboratory Technician,No,Travel_Rarely,3377,4,1,3,2,No,0,0.09117415099337248,8,Low,Monitor,Low job satisfaction; Low work-life balance
-1349,Sales,Sales Executive,No,Travel_Frequently,4103,9,1,3,3,No,0,0.09114594050697429,8,Low,Monitor,Frequent business travel; Low job satisfaction
+1349,Sales,Sales Executive,No,Travel_Frequently,4103,9,1,3,3,No,0,0.09114594050697428,8,Low,Monitor,Frequent business travel; Low job satisfaction
 13,Research & Development,Healthcare Representative,No,Travel_Rarely,5237,7,3,3,2,No,0,0.09105090552746956,8,Low,Monitor,Low work-life balance; Long promotion gap
 524,Research & Development,Manufacturing Director,No,Travel_Rarely,4306,13,1,2,1,No,0,0.09103115878778881,8,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance
 1751,Research & Development,Research Scientist,No,Travel_Rarely,3445,6,4,3,2,No,0,0.09030849181661839,8,Low,Monitor,Low work-life balance; No stock option
 1140,Research & Development,Manufacturing Director,No,Travel_Frequently,4033,3,3,4,2,No,0,0.09012096925379837,8,Low,Monitor,Frequent business travel; Low work-life balance; No stock option
 1631,Research & Development,Manufacturing Director,No,Travel_Rarely,5768,4,3,3,2,No,0,0.09005074979938296,8,Low,Monitor,Low work-life balance
-1039,Sales,Sales Executive,Yes,Travel_Rarely,13320,12,4,4,3,No,0,0.08981307267179311,8,Low,Monitor,Works overtime; Long promotion gap
+1039,Sales,Sales Executive,Yes,Travel_Rarely,13320,12,4,4,3,No,0,0.08981307267179313,8,Low,Monitor,Works overtime; Long promotion gap
 199,Research & Development,Manager,No,Travel_Frequently,17181,7,1,4,2,No,0,0.0898065344038792,8,Low,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance; Long promotion gap
-1863,Sales,Sales Executive,No,Travel_Rarely,13225,19,1,1,3,No,0,0.0897038994540814,8,Low,Monitor,Low job satisfaction; Low environment satisfaction
+1863,Sales,Sales Executive,No,Travel_Rarely,13225,19,1,1,3,No,0,0.08970389945408139,8,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1745,Research & Development,Research Scientist,No,Travel_Frequently,4968,9,1,4,3,No,0,0.08924238886173136,8,Low,Monitor,Frequent business travel; Low job satisfaction; No stock option
 154,Sales,Sales Executive,No,Travel_Frequently,9738,9,4,2,3,No,0,0.08911487675669597,8,Low,Monitor,Frequent business travel; Low environment satisfaction
 367,Research & Development,Healthcare Representative,No,Travel_Rarely,5582,9,4,2,3,No,0,0.08866347209492492,8,Low,Monitor,Low environment satisfaction; Long promotion gap
@@ -1104,31 +1104,31 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1128,Research & Development,Research Director,No,Travel_Rarely,19626,20,3,3,4,No,0,0.07753095558114366,8,Low,Monitor,Long promotion gap; No stock option
 486,Research & Development,Laboratory Technician,No,Travel_Rarely,3452,5,1,3,3,No,0,0.07691806378614521,8,Low,Monitor,Low job satisfaction
 924,Research & Development,Healthcare Representative,Yes,Travel_Rarely,6586,16,4,3,2,No,0,0.07652528215412814,8,Low,Monitor,Works overtime; Low work-life balance; Long promotion gap
-412,Research & Development,Healthcare Representative,No,Travel_Rarely,5661,8,1,2,3,No,0,0.07632161169305322,8,Low,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
+412,Research & Development,Healthcare Representative,No,Travel_Rarely,5661,8,1,2,3,No,0,0.07632161169305324,8,Low,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
 1513,Research & Development,Laboratory Technician,No,Travel_Frequently,3180,3,2,4,3,No,0,0.07622965730176452,8,Low,Monitor,Frequent business travel; Low job satisfaction
-1922,Research & Development,Healthcare Representative,No,Travel_Frequently,5399,4,3,2,3,No,0,0.07616585919598343,8,Low,Monitor,Frequent business travel; Low environment satisfaction; No stock option
+1922,Research & Development,Healthcare Representative,No,Travel_Frequently,5399,4,3,2,3,No,0,0.07616585919598341,8,Low,Monitor,Frequent business travel; Low environment satisfaction; No stock option
 1885,Research & Development,Research Scientist,Yes,Travel_Rarely,4284,5,1,4,3,No,0,0.07607407602407694,8,Low,Monitor,Works overtime; Low job satisfaction
 857,Sales,Sales Executive,Yes,Travel_Rarely,6201,18,4,2,2,No,0,0.07605564803726257,8,Low,Monitor,Works overtime; Low environment satisfaction; Low work-life balance; Long promotion gap
 1640,Research & Development,Research Scientist,No,Travel_Rarely,3936,8,2,2,1,No,0,0.07530279129516829,8,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap
 844,Research & Development,Research Director,Yes,Travel_Rarely,12808,9,4,3,3,No,0,0.07502519651522552,8,Low,Monitor,Works overtime
 83,Research & Development,Healthcare Representative,No,Travel_Rarely,10096,17,3,3,3,No,0,0.07458173335335078,8,Low,Monitor,Long promotion gap
 107,Research & Development,Research Scientist,Yes,Non-Travel,5329,13,4,2,3,No,0,0.0740890816843906,8,Low,Monitor,Works overtime; Low environment satisfaction
-1965,Sales,Sales Executive,No,Travel_Rarely,4105,7,4,4,3,No,0,0.07404788380774596,8,Low,Monitor,No stock option
+1965,Sales,Sales Executive,No,Travel_Rarely,4105,7,4,4,3,No,0,0.07404788380774598,8,Low,Monitor,No stock option
 1721,Research & Development,Laboratory Technician,No,Travel_Rarely,3477,5,3,2,4,No,0,0.07285417534128123,8,Low,Monitor,Low environment satisfaction
 699,Research & Development,Manufacturing Director,Yes,Travel_Rarely,8847,3,2,2,3,No,0,0.07240603256005132,8,Low,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction
 1137,Sales,Sales Executive,No,Travel_Frequently,4968,5,4,4,3,No,0,0.0722605402903013,8,Low,Monitor,Frequent business travel
 1340,Research & Development,Research Scientist,No,Non-Travel,3544,4,3,3,3,No,0,0.07197917832331205,8,Low,Monitor,No dominant heuristic risk driver
 1588,Sales,Sales Executive,No,Travel_Rarely,8237,7,3,4,3,No,0,0.07170393282235382,8,Low,Monitor,Long promotion gap
 806,Research & Development,Laboratory Technician,No,Travel_Rarely,3833,2,3,4,3,No,0,0.07123370968508791,8,Low,Monitor,Early tenure
-450,Research & Development,Research Scientist,No,Travel_Frequently,4869,4,3,4,2,No,0,0.07100863644117433,8,Low,Monitor,Frequent business travel; Low work-life balance; No stock option
+450,Research & Development,Research Scientist,No,Travel_Frequently,4869,4,3,4,2,No,0,0.07100863644117432,8,Low,Monitor,Frequent business travel; Low work-life balance; No stock option
 387,Sales,Sales Executive,No,Travel_Rarely,4907,20,3,2,3,No,0,0.0699264064768628,8,Low,Monitor,Low environment satisfaction; Long promotion gap; No stock option
 242,Research & Development,Research Scientist,No,Travel_Rarely,2500,3,4,3,4,No,0,0.06935558441101548,8,Low,Monitor,No stock option
 543,Research & Development,Manufacturing Director,Yes,Travel_Rarely,7969,5,3,4,3,No,0,0.06900551517183484,8,Low,Monitor,Works overtime; No stock option
 626,Sales,Sales Executive,No,Non-Travel,8834,9,2,1,3,No,0,0.06890442599511085,8,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
 516,Sales,Sales Executive,No,Travel_Rarely,5715,5,2,4,3,No,0,0.06869176266949345,8,Low,Monitor,Low job satisfaction
 487,Research & Development,Manufacturing Director,No,Non-Travel,5258,1,3,3,4,No,0,0.06807554927560135,8,Low,Monitor,Early tenure; No stock option
-722,Sales,Sales Executive,No,Travel_Rarely,5396,10,4,4,2,No,0,0.06804257191453825,8,Low,Monitor,Low work-life balance; No stock option
-165,Research & Development,Healthcare Representative,No,Travel_Rarely,10312,40,4,4,2,Yes,1,0.06795596811608587,8,Low,Monitor,Low work-life balance; Long promotion gap
+722,Sales,Sales Executive,No,Travel_Rarely,5396,10,4,4,2,No,0,0.06804257191453823,8,Low,Monitor,Low work-life balance; No stock option
+165,Research & Development,Healthcare Representative,No,Travel_Rarely,10312,40,4,4,2,Yes,1,0.06795596811608588,8,Low,Monitor,Low work-life balance; Long promotion gap
 714,Sales,Sales Executive,Yes,Travel_Frequently,4647,6,4,4,3,No,0,0.06781310087893501,8,Low,Monitor,Works overtime; Frequent business travel
 1228,Research & Development,Manufacturing Director,No,Travel_Rarely,7379,6,4,4,2,No,0,0.06762972079272746,8,Low,Monitor,Low work-life balance
 288,Research & Development,Healthcare Representative,No,Travel_Rarely,9396,4,1,4,3,No,0,0.06744471994208961,8,Low,Monitor,Low job satisfaction
@@ -1149,11 +1149,11 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 42,Sales,Sales Representative,No,Travel_Rarely,2086,1,4,4,4,Yes,1,0.062055230215103924,8,Low,Monitor,Early tenure
 515,Research & Development,Laboratory Technician,No,Travel_Rarely,3034,18,1,4,2,No,0,0.06178680263472286,8,Low,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap
 116,Research & Development,Laboratory Technician,No,Travel_Rarely,2075,4,4,4,3,No,0,0.06156559874402434,8,Low,Monitor,No dominant heuristic risk driver
-930,Research & Development,Research Scientist,No,Travel_Rarely,2377,2,3,3,3,No,0,0.06142779520525292,8,Low,Monitor,Early tenure
-1574,Research & Development,Research Scientist,No,Non-Travel,4087,6,1,4,2,No,0,0.06140072522246984,8,Low,Monitor,Low job satisfaction; Low work-life balance
+930,Research & Development,Research Scientist,No,Travel_Rarely,2377,2,3,3,3,No,0,0.061427795205252905,8,Low,Monitor,Early tenure
+1574,Research & Development,Research Scientist,No,Non-Travel,4087,6,1,4,2,No,0,0.061400725222469824,8,Low,Monitor,Low job satisfaction; Low work-life balance
 1383,Research & Development,Healthcare Representative,No,Travel_Rarely,6687,14,4,3,4,No,0,0.06134051151856858,8,Low,Monitor,Long promotion gap; No stock option
 1254,Sales,Sales Executive,No,Travel_Rarely,5171,6,4,3,3,No,0,0.06122973538371512,8,Low,Monitor,No stock option
-1857,Research & Development,Manufacturing Director,No,Travel_Rarely,8578,9,4,4,2,No,0,0.060587975243360924,8,Low,Monitor,Low work-life balance; Long promotion gap
+1857,Research & Development,Manufacturing Director,No,Travel_Rarely,8578,9,4,4,2,No,0,0.06058797524336091,8,Low,Monitor,Low work-life balance; Long promotion gap
 1719,Research & Development,Research Director,No,Travel_Rarely,16704,21,2,4,3,No,0,0.060077198330752674,8,Low,Monitor,Low job satisfaction; Long promotion gap; No stock option
 254,Research & Development,Research Director,No,Travel_Rarely,18722,24,2,3,3,No,0,0.05982058007055331,8,Low,Monitor,Low job satisfaction; No stock option
 1525,Research & Development,Manufacturing Director,No,Travel_Rarely,8376,2,2,2,3,No,0,0.05962664139000431,8,Low,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure; No stock option
@@ -1162,8 +1162,8 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 2041,Sales,Sales Executive,No,Travel_Rarely,5343,10,4,1,3,No,0,0.05896375942860534,8,Low,Monitor,Low environment satisfaction
 1687,Research & Development,Laboratory Technician,No,Travel_Rarely,3306,0,3,4,2,No,0,0.05853918014685032,8,Low,Monitor,Low work-life balance; Early tenure
 250,Research & Development,Manufacturing Director,No,Travel_Rarely,4450,4,1,4,3,No,0,0.05852403836156149,8,Low,Monitor,Low job satisfaction
-178,Research & Development,Manufacturing Director,No,Travel_Rarely,4941,3,2,2,3,No,0,0.058373187627967206,8,Low,Monitor,Low job satisfaction; Low environment satisfaction
-378,Sales,Sales Executive,No,Travel_Rarely,6502,5,4,3,4,No,0,0.0567019364159382,8,Low,Monitor,No dominant heuristic risk driver
+178,Research & Development,Manufacturing Director,No,Travel_Rarely,4941,3,2,2,3,No,0,0.0583731876279672,8,Low,Monitor,Low job satisfaction; Low environment satisfaction
+378,Sales,Sales Executive,No,Travel_Rarely,6502,5,4,3,4,No,0,0.056701936415938216,8,Low,Monitor,No dominant heuristic risk driver
 1007,Research & Development,Manufacturing Director,No,Travel_Rarely,10845,8,3,4,3,No,0,0.05659446873678539,8,Low,Monitor,No dominant heuristic risk driver
 1336,Research & Development,Manager,No,Travel_Rarely,19187,19,3,4,3,No,0,0.05653949137725318,8,Low,Monitor,Long promotion gap
 547,Research & Development,Research Scientist,No,Travel_Frequently,4556,5,3,1,3,No,0,0.05615858225525335,8,Low,Monitor,Frequent business travel; Low environment satisfaction
@@ -1177,12 +1177,12 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1006,Research & Development,Research Scientist,No,Travel_Frequently,2684,2,3,3,2,No,0,0.054295910600856534,8,Low,Monitor,Frequent business travel; Low work-life balance; Early tenure
 419,Research & Development,Laboratory Technician,No,Non-Travel,5674,9,2,2,3,No,0,0.05418089567301674,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1191,Research & Development,Manager,No,Travel_Rarely,19943,5,1,4,3,No,0,0.05403943061249889,9,Low,Monitor,Low job satisfaction; Long promotion gap
-1238,Research & Development,Research Scientist,No,Travel_Rarely,2781,14,4,1,3,No,0,0.053834020115069985,9,Low,Monitor,Low environment satisfaction; Long promotion gap
-1590,Research & Development,Healthcare Representative,No,Travel_Frequently,8853,6,4,1,4,No,0,0.05382176338687253,9,Low,Monitor,Frequent business travel; Low environment satisfaction
-1703,Research & Development,Healthcare Representative,Yes,Travel_Rarely,7879,8,4,3,3,No,0,0.05355532187123026,9,Low,Monitor,Works overtime; Long promotion gap
-830,Research & Development,Manufacturing Director,No,Travel_Rarely,6162,14,3,3,3,No,0,0.05335225165743413,9,Low,Monitor,Long promotion gap
-2052,Research & Development,Research Scientist,No,Travel_Rarely,2977,4,4,3,3,No,0,0.05329381700862445,9,Low,Monitor,No dominant heuristic risk driver
-591,Research & Development,Laboratory Technician,No,Travel_Frequently,2093,2,3,2,3,No,0,0.05305469393587679,9,Low,Monitor,Frequent business travel; Low environment satisfaction; Early tenure
+1238,Research & Development,Research Scientist,No,Travel_Rarely,2781,14,4,1,3,No,0,0.05383402011507,9,Low,Monitor,Low environment satisfaction; Long promotion gap
+1590,Research & Development,Healthcare Representative,No,Travel_Frequently,8853,6,4,1,4,No,0,0.053821763386872515,9,Low,Monitor,Frequent business travel; Low environment satisfaction
+1703,Research & Development,Healthcare Representative,Yes,Travel_Rarely,7879,8,4,3,3,No,0,0.05355532187123027,9,Low,Monitor,Works overtime; Long promotion gap
+830,Research & Development,Manufacturing Director,No,Travel_Rarely,6162,14,3,3,3,No,0,0.05335225165743412,9,Low,Monitor,Long promotion gap
+2052,Research & Development,Research Scientist,No,Travel_Rarely,2977,4,4,3,3,No,0,0.05329381700862446,9,Low,Monitor,No dominant heuristic risk driver
+591,Research & Development,Laboratory Technician,No,Travel_Frequently,2093,2,3,2,3,No,0,0.05305469393587678,9,Low,Monitor,Frequent business travel; Low environment satisfaction; Early tenure
 1892,Research & Development,Manager,No,Travel_Rarely,16823,19,1,1,3,No,0,0.05219687830404354,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
 562,Research & Development,Laboratory Technician,No,Non-Travel,2097,5,4,3,1,No,0,0.05199559179011599,9,Low,Monitor,Low work-life balance
 160,Sales,Sales Executive,No,Non-Travel,6146,7,2,3,4,No,0,0.05188483399109166,9,Low,Monitor,Low job satisfaction
@@ -1191,20 +1191,20 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 273,Research & Development,Manufacturing Director,No,Travel_Rarely,6261,7,4,4,1,No,0,0.051480632057684335,9,Low,Monitor,Low work-life balance
 1121,Research & Development,Manufacturing Director,No,Travel_Rarely,7655,9,2,4,2,No,0,0.05116997137248432,9,Low,Monitor,Low job satisfaction; Low work-life balance
 1177,Research & Development,Laboratory Technician,No,Travel_Rarely,4420,8,4,1,3,No,0,0.051122572724834225,9,Low,Monitor,Low environment satisfaction
-84,Research & Development,Manager,Yes,Travel_Rarely,14756,5,3,4,3,No,0,0.050476097014708655,9,Low,Monitor,Works overtime
+84,Research & Development,Manager,Yes,Travel_Rarely,14756,5,3,4,3,No,0,0.05047609701470865,9,Low,Monitor,Works overtime
 461,Research & Development,Research Director,Yes,Travel_Rarely,11510,11,4,3,3,No,0,0.050437644681588456,9,Low,Monitor,Works overtime
 742,Research & Development,Research Director,No,Non-Travel,11713,8,1,1,3,No,0,0.050079803941599194,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
-564,Research & Development,Research Director,No,Travel_Rarely,11935,10,3,2,3,No,0,0.04967842839905547,9,Low,Monitor,Low environment satisfaction; No stock option
+564,Research & Development,Research Director,No,Travel_Rarely,11935,10,3,2,3,No,0,0.04967842839905546,9,Low,Monitor,Low environment satisfaction; No stock option
 1460,Research & Development,Healthcare Representative,Yes,Travel_Rarely,10851,7,1,2,3,No,0,0.04958378888422048,9,Low,Monitor,Works overtime; Low job satisfaction; Low environment satisfaction
 1441,Research & Development,Research Scientist,No,Travel_Rarely,2066,3,1,1,4,No,0,0.04953232260674013,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
-296,Research & Development,Research Director,No,Travel_Rarely,12490,10,2,2,1,No,0,0.049487073334688624,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap
+296,Research & Development,Research Director,No,Travel_Rarely,12490,10,2,2,1,No,0,0.04948707333468863,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap
 132,Research & Development,Laboratory Technician,No,Non-Travel,2042,3,2,2,4,No,0,0.04944234429527527,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1971,Research & Development,Healthcare Representative,No,Travel_Rarely,7510,10,3,1,3,No,0,0.049195349054847244,9,Low,Monitor,Low environment satisfaction
 1047,Sales,Sales Executive,No,Travel_Rarely,9725,15,4,2,2,No,0,0.049128616259877994,9,Low,Monitor,Low environment satisfaction; Low work-life balance
 1263,Research & Development,Research Director,No,Travel_Rarely,18265,1,4,4,4,No,0,0.048903508413958574,9,Low,Monitor,Early tenure; No stock option
 479,Sales,Sales Executive,No,Non-Travel,6653,1,4,4,3,No,0,0.047968720836716786,9,Low,Monitor,Early tenure; No stock option
 1293,Sales,Sales Executive,No,Travel_Rarely,10231,21,4,4,4,No,0,0.04761549063526217,9,Low,Monitor,Long promotion gap; No stock option
-143,Research & Development,Research Scientist,No,Travel_Rarely,2889,2,4,4,3,No,0,0.047555154778296346,9,Low,Monitor,Early tenure
+143,Research & Development,Research Scientist,No,Travel_Rarely,2889,2,4,4,3,No,0,0.04755515477829634,9,Low,Monitor,Early tenure
 197,Research & Development,Research Scientist,No,Travel_Rarely,3204,3,1,4,3,No,0,0.047016152337936115,9,Low,Monitor,Low job satisfaction
 1120,Research & Development,Research Scientist,No,Travel_Rarely,2514,7,4,3,3,No,0,0.04687107080579217,9,Low,Monitor,No dominant heuristic risk driver
 1625,Human Resources,Manager,No,Travel_Rarely,19658,5,3,4,3,No,0,0.04675889575618743,9,Low,Monitor,No dominant heuristic risk driver
@@ -1221,9 +1221,9 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1143,Research & Development,Research Scientist,No,Travel_Frequently,3291,7,2,4,2,No,0,0.045399398527014904,9,Low,Monitor,Frequent business travel; Low job satisfaction; Low work-life balance
 1544,Research & Development,Healthcare Representative,No,Travel_Rarely,9715,7,1,3,3,No,0,0.045307605599654605,9,Low,Monitor,Low job satisfaction
 683,Research & Development,Research Scientist,No,Travel_Rarely,2691,10,4,2,2,No,0,0.04527010037658355,9,Low,Monitor,Low environment satisfaction; Low work-life balance; Long promotion gap
-171,Research & Development,Research Scientist,No,Travel_Frequently,4739,3,3,2,3,No,0,0.04509728346176809,9,Low,Monitor,Frequent business travel; Low environment satisfaction; No stock option
+171,Research & Development,Research Scientist,No,Travel_Frequently,4739,3,3,2,3,No,0,0.04509728346176808,9,Low,Monitor,Frequent business travel; Low environment satisfaction; No stock option
 302,Sales,Sales Executive,No,Non-Travel,8865,19,4,4,3,No,0,0.04469411659885843,9,Low,Monitor,Long promotion gap; No stock option
-865,Research & Development,Research Scientist,No,Travel_Rarely,5175,5,3,3,2,No,0,0.04453489619665102,9,Low,Monitor,Low work-life balance
+865,Research & Development,Research Scientist,No,Travel_Rarely,5175,5,3,3,2,No,0,0.04453489619665101,9,Low,Monitor,Low work-life balance
 1621,Research & Development,Research Scientist,No,Travel_Rarely,5208,16,1,2,3,No,0,0.04418750342185358,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; No stock option
 1834,Research & Development,Research Scientist,No,Travel_Rarely,3591,3,1,3,3,No,0,0.043947900584986654,9,Low,Monitor,Low job satisfaction
 1369,Research & Development,Laboratory Technician,No,Travel_Rarely,5363,9,4,4,3,No,0,0.04391981248349506,9,Low,Monitor,No dominant heuristic risk driver
@@ -1236,9 +1236,9 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1346,Research & Development,Research Scientist,No,Travel_Rarely,4661,9,4,3,3,No,0,0.04181819884721554,9,Low,Monitor,Long promotion gap; No stock option
 2007,Research & Development,Research Scientist,No,Travel_Rarely,3375,3,3,4,4,No,0,0.041770381073960576,9,Low,Monitor,No stock option
 1789,Research & Development,Research Director,Yes,Travel_Rarely,19328,2,4,3,3,No,0,0.041390295127728016,9,Low,Monitor,Works overtime; Early tenure
-1656,Research & Development,Research Director,No,Travel_Rarely,13269,14,1,4,3,No,0,0.04134956614702686,9,Low,Monitor,Low job satisfaction
+1656,Research & Development,Research Director,No,Travel_Rarely,13269,14,1,4,3,No,0,0.04134956614702687,9,Low,Monitor,Low job satisfaction
 1071,Research & Development,Research Scientist,No,Travel_Frequently,2942,5,3,1,3,No,0,0.040669063410658506,9,Low,Monitor,Frequent business travel; Low environment satisfaction
-826,Research & Development,Research Scientist,No,Travel_Rarely,2506,2,3,4,3,No,0,0.040657307195043686,9,Low,Monitor,Early tenure; No stock option
+826,Research & Development,Research Scientist,No,Travel_Rarely,2506,2,3,4,3,No,0,0.04065730719504369,9,Low,Monitor,Early tenure; No stock option
 408,Research & Development,Manufacturing Director,No,Travel_Rarely,5482,4,2,4,3,No,0,0.04056140379201773,9,Low,Monitor,Low job satisfaction
 715,Research & Development,Research Scientist,No,Travel_Rarely,4680,1,4,4,3,No,0,0.04048285958893429,9,Low,Monitor,Early tenure; No stock option
 526,Research & Development,Healthcare Representative,Yes,Travel_Rarely,4522,5,3,3,3,No,0,0.04033520734039581,9,Low,Monitor,Works overtime; No stock option
@@ -1251,8 +1251,8 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 112,Research & Development,Manufacturing Director,No,Travel_Rarely,7260,6,4,4,2,No,0,0.03917979582654508,9,Low,Monitor,Low work-life balance; No stock option
 1592,Research & Development,Research Scientist,No,Travel_Rarely,2073,2,3,4,3,No,0,0.03912715736013503,9,Low,Monitor,Early tenure
 202,Research & Development,Research Scientist,No,Travel_Frequently,5605,20,2,2,3,No,0,0.03857889120290186,9,Low,Monitor,Frequent business travel; Low job satisfaction; Low environment satisfaction
-319,Research & Development,Manager,No,Travel_Rarely,19232,22,4,3,3,No,0,0.03819325162462353,9,Low,Monitor,Long promotion gap; No stock option
-1638,Research & Development,Manufacturing Director,Yes,Travel_Rarely,7756,5,3,4,4,No,0,0.03814940944270208,9,Low,Monitor,Works overtime
+319,Research & Development,Manager,No,Travel_Rarely,19232,22,4,3,3,No,0,0.03819325162462354,9,Low,Monitor,Long promotion gap; No stock option
+1638,Research & Development,Manufacturing Director,Yes,Travel_Rarely,7756,5,3,4,4,No,0,0.038149409442702086,9,Low,Monitor,Works overtime
 847,Human Resources,Human Resources,No,Travel_Rarely,3737,3,4,3,1,No,0,0.037600431888252066,9,Low,Monitor,Low work-life balance
 1471,Research & Development,Laboratory Technician,No,Non-Travel,3162,5,3,3,3,No,0,0.03741862124383219,9,Low,Monitor,No stock option
 1114,Sales,Sales Executive,No,Travel_Frequently,4302,3,2,4,3,No,0,0.03739070032715856,9,Low,Monitor,Frequent business travel; Low job satisfaction
@@ -1261,8 +1261,8 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1018,Research & Development,Manufacturing Director,No,Travel_Rarely,5472,8,4,4,3,No,0,0.03648222256963982,9,Low,Monitor,No stock option
 422,Research & Development,Healthcare Representative,Yes,Non-Travel,5660,5,3,4,3,No,0,0.03605915926633375,9,Low,Monitor,Works overtime
 1986,Sales,Sales Executive,No,Travel_Rarely,5677,11,2,2,3,No,0,0.03602949171750714,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
-264,Research & Development,Manager,No,Non-Travel,16792,20,4,1,3,No,0,0.03598183310693381,9,Low,Monitor,Low environment satisfaction; Long promotion gap
-574,Research & Development,Manufacturing Director,No,Travel_Rarely,5070,5,4,1,3,No,0,0.035879132502619746,9,Low,Monitor,Low environment satisfaction
+264,Research & Development,Manager,No,Non-Travel,16792,20,4,1,3,No,0,0.0359818331069338,9,Low,Monitor,Low environment satisfaction; Long promotion gap
+574,Research & Development,Manufacturing Director,No,Travel_Rarely,5070,5,4,1,3,No,0,0.03587913250261974,9,Low,Monitor,Low environment satisfaction
 1778,Human Resources,Human Resources,No,Travel_Rarely,3539,9,4,2,3,No,0,0.035786351111165286,9,Low,Monitor,Low environment satisfaction; No stock option
 2008,Research & Development,Research Scientist,No,Travel_Rarely,5098,10,3,2,3,No,0,0.03578121182502721,9,Low,Monitor,Low environment satisfaction; No stock option
 341,Research & Development,Manufacturing Director,No,Travel_Frequently,6434,3,3,1,3,No,0,0.03566239049858807,9,Low,Monitor,Frequent business travel; Low environment satisfaction
@@ -1288,7 +1288,7 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1696,Research & Development,Laboratory Technician,No,Travel_Rarely,3986,15,4,2,4,No,0,0.031406219903066426,9,Low,Monitor,Low environment satisfaction; Long promotion gap
 195,Sales,Sales Executive,No,Travel_Frequently,4668,8,4,4,4,No,0,0.031297327902375806,9,Low,Monitor,Frequent business travel
 1249,Research & Development,Research Scientist,No,Travel_Rarely,3760,3,4,1,3,No,0,0.03126235150815007,9,Low,Monitor,Low environment satisfaction
-797,Research & Development,Research Scientist,No,Travel_Rarely,3280,4,4,2,3,No,0,0.031242515146245365,9,Low,Monitor,Low environment satisfaction; No stock option
+797,Research & Development,Research Scientist,No,Travel_Rarely,3280,4,4,2,3,No,0,0.031242515146245358,9,Low,Monitor,Low environment satisfaction; No stock option
 96,Research & Development,Research Scientist,No,Travel_Rarely,6220,10,2,2,3,No,0,0.031179846540688755,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1888,Research & Development,Manufacturing Director,No,Travel_Rarely,5906,9,4,2,2,No,0,0.030865945172371078,9,Low,Monitor,Low environment satisfaction; Low work-life balance
 500,Sales,Sales Executive,No,Travel_Rarely,4936,7,4,3,2,No,0,0.030765257716562577,9,Low,Monitor,Low work-life balance
@@ -1305,14 +1305,14 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 252,Research & Development,Research Scientist,No,Travel_Rarely,2756,8,2,4,3,No,0,0.02852775403673936,9,Low,Monitor,Low job satisfaction
 1845,Sales,Sales Executive,No,Non-Travel,5154,8,3,3,4,No,0,0.02837221205217228,9,Low,Monitor,Long promotion gap
 464,Research & Development,Manufacturing Director,No,Travel_Rarely,8095,16,2,3,3,No,0,0.028351379141737652,9,Low,Monitor,Low job satisfaction; No stock option
-1472,Research & Development,Research Director,No,Travel_Rarely,16598,9,2,4,2,No,0,0.028274057637239856,9,Low,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap; No stock option
+1472,Research & Development,Research Director,No,Travel_Rarely,16598,9,2,4,2,No,0,0.028274057637239853,9,Low,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap; No stock option
 1116,Research & Development,Manager,No,Non-Travel,16885,5,4,1,2,No,0,0.0282684051570858,9,Low,Monitor,Low environment satisfaction; Low work-life balance; No stock option
 438,Sales,Sales Executive,No,Travel_Rarely,7547,7,4,4,3,No,0,0.027840984721516665,9,Low,Monitor,No dominant heuristic risk driver
-1871,Research & Development,Research Scientist,No,Travel_Rarely,3902,2,4,4,3,No,0,0.027607816701016957,9,Low,Monitor,Early tenure
+1871,Research & Development,Research Scientist,No,Travel_Rarely,3902,2,4,4,3,No,0,0.02760781670101695,9,Low,Monitor,Early tenure
 1422,Research & Development,Research Director,No,Travel_Rarely,17328,20,4,4,2,No,0,0.027226271392893537,9,Low,Monitor,Low work-life balance; Long promotion gap; No stock option
 1295,Research & Development,Healthcare Representative,No,Travel_Rarely,7978,10,4,1,3,Yes,1,0.027192443241046704,9,Low,Monitor,Low environment satisfaction
 1520,Research & Development,Manager,No,Travel_Frequently,16032,14,4,2,3,No,0,0.027010133829924354,9,Low,Monitor,Frequent business travel; Low environment satisfaction
-1829,Research & Development,Healthcare Representative,No,Travel_Rarely,4448,7,1,2,3,No,0,0.02656653730936701,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
+1829,Research & Development,Healthcare Representative,No,Travel_Rarely,4448,7,1,2,3,No,0,0.026566537309367005,9,Low,Monitor,Low job satisfaction; Low environment satisfaction; Long promotion gap
 421,Research & Development,Research Director,No,Travel_Rarely,12061,10,2,1,3,No,0,0.02650469110286215,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
 843,Research & Development,Research Director,No,Travel_Rarely,17159,4,1,2,3,No,0,0.02625173066451278,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1025,Research & Development,Manufacturing Director,No,Travel_Rarely,5003,2,3,4,3,No,0,0.026125941121971714,9,Low,Monitor,Early tenure; No stock option
@@ -1320,42 +1320,42 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 76,Research & Development,Laboratory Technician,No,Travel_Rarely,5915,7,4,4,2,No,0,0.025881899829091348,9,Low,Monitor,Low work-life balance
 520,Research & Development,Research Director,No,Travel_Rarely,14336,25,2,1,3,No,0,0.02540302752194818,9,Low,Monitor,Low job satisfaction; Low environment satisfaction
 544,Research & Development,Research Scientist,No,Travel_Rarely,2654,2,4,1,2,No,0,0.025396617001759825,9,Low,Monitor,Low environment satisfaction; Low work-life balance; Early tenure
-1382,Research & Development,Research Scientist,No,Travel_Frequently,2610,4,3,4,3,No,0,0.025341312884737552,9,Low,Monitor,Frequent business travel
+1382,Research & Development,Research Scientist,No,Travel_Frequently,2610,4,3,4,3,No,0,0.02534131288473755,9,Low,Monitor,Frequent business travel
 1665,Research & Development,Manager,No,Travel_Rarely,17426,10,3,2,3,No,0,0.024987495802659156,9,Low,Monitor,Low environment satisfaction; Long promotion gap
 579,Research & Development,Research Scientist,No,Travel_Rarely,2768,7,3,4,3,No,0,0.024862354214558603,10,Low,Monitor,Long promotion gap
 1651,Research & Development,Healthcare Representative,No,Travel_Rarely,8008,3,1,2,3,No,0,0.024710623343540912,10,Low,Monitor,Low job satisfaction; Low environment satisfaction
-902,Research & Development,Healthcare Representative,No,Travel_Frequently,5562,5,4,4,2,No,0,0.024699298156687845,10,Low,Monitor,Frequent business travel; Low work-life balance
+902,Research & Development,Healthcare Representative,No,Travel_Frequently,5562,5,4,4,2,No,0,0.024699298156687838,10,Low,Monitor,Frequent business travel; Low work-life balance
 1858,Human Resources,Human Resources,No,Non-Travel,2706,3,4,3,3,No,0,0.023732531461168566,10,Low,Monitor,No dominant heuristic risk driver
 1671,Research & Development,Research Scientist,No,Travel_Rarely,5470,9,2,4,2,No,0,0.02373107544216048,10,Low,Monitor,Low job satisfaction; Low work-life balance
 26,Research & Development,Manufacturing Director,No,Non-Travel,4011,4,3,1,2,No,0,0.02369135669299832,10,Low,Monitor,Low environment satisfaction; Low work-life balance
 94,Research & Development,Research Scientist,No,Travel_Rarely,2703,5,2,3,3,No,0,0.023298314630923897,10,Low,Monitor,Low job satisfaction
-1355,Sales,Sales Executive,No,Travel_Rarely,6893,7,1,2,3,No,0,0.022684471729881972,10,Low,Monitor,Low job satisfaction; Low environment satisfaction
+1355,Sales,Sales Executive,No,Travel_Rarely,6893,7,1,2,3,No,0,0.02268447172988197,10,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1288,Research & Development,Manager,No,Travel_Rarely,19190,25,1,3,2,No,0,0.02262741622457921,10,Low,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap
 1655,Research & Development,Research Director,No,Travel_Rarely,16413,4,2,1,3,No,0,0.022316882456977518,10,Low,Monitor,Low job satisfaction; Low environment satisfaction
 1225,Research & Development,Research Scientist,No,Travel_Rarely,4541,20,4,4,3,No,0,0.022304449597812255,10,Low,Monitor,Long promotion gap; No stock option
 1088,Research & Development,Healthcare Representative,No,Travel_Rarely,8823,19,3,3,2,No,0,0.022241073526106794,10,Low,Monitor,Low work-life balance
-1995,Sales,Sales Executive,No,Travel_Rarely,4440,15,2,4,3,No,0,0.021982201540124324,10,Low,Monitor,Low job satisfaction; Long promotion gap
+1995,Sales,Sales Executive,No,Travel_Rarely,4440,15,2,4,3,No,0,0.021982201540124327,10,Low,Monitor,Low job satisfaction; Long promotion gap
 308,Research & Development,Manufacturing Director,No,Non-Travel,4345,5,3,3,3,No,0,0.021842914919330707,10,Low,Monitor,No dominant heuristic risk driver
-1707,Research & Development,Research Scientist,No,Travel_Rarely,4401,5,3,3,3,No,0,0.02100827201227991,10,Low,Monitor,No dominant heuristic risk driver
+1707,Research & Development,Research Scientist,No,Travel_Rarely,4401,5,3,3,3,No,0,0.021008272012279908,10,Low,Monitor,No dominant heuristic risk driver
 369,Research & Development,Healthcare Representative,No,Non-Travel,4000,6,1,2,3,No,0,0.020791699454610492,10,Low,Monitor,Low job satisfaction; Low environment satisfaction
 942,Research & Development,Healthcare Representative,Yes,Travel_Rarely,4014,10,4,4,1,No,0,0.020312767898090726,10,Low,Monitor,Works overtime; Low work-life balance
 1375,Research & Development,Healthcare Representative,No,Travel_Rarely,6377,12,3,2,3,No,0,0.02022593805401464,10,Low,Monitor,Low environment satisfaction; Long promotion gap
 1192,Research & Development,Laboratory Technician,No,Travel_Rarely,3131,10,4,2,3,No,0,0.019871648858675244,10,Low,Monitor,Low environment satisfaction
 340,Research & Development,Research Scientist,No,Travel_Rarely,3920,3,1,3,2,No,0,0.01968943991649569,10,Low,Monitor,Low job satisfaction; Low work-life balance
-1976,Research & Development,Research Scientist,No,Non-Travel,4332,20,3,4,3,No,0,0.01954260756912881,10,Low,Monitor,No stock option
+1976,Research & Development,Research Scientist,No,Non-Travel,4332,20,3,4,3,No,0,0.019542607569128807,10,Low,Monitor,No stock option
 638,Research & Development,Research Director,Yes,Travel_Rarely,19502,31,3,4,3,No,0,0.01940706002977394,10,Low,Monitor,Works overtime
 1970,Research & Development,Healthcare Representative,No,Travel_Frequently,5968,9,3,4,3,No,0,0.019161855861957677,10,Low,Monitor,Frequent business travel
 824,Research & Development,Research Scientist,No,Travel_Rarely,2700,10,3,3,3,No,0,0.019160495412395596,10,Low,Monitor,No dominant heuristic risk driver
 869,Human Resources,Human Resources,No,Travel_Rarely,4936,5,4,2,3,No,0,0.019048042794948834,10,Low,Monitor,Low environment satisfaction
 1676,Sales,Manager,No,Travel_Rarely,15972,3,2,2,3,No,0,0.01892104545946011,10,Low,Monitor,Low job satisfaction; Low environment satisfaction
-1026,Research & Development,Manufacturing Director,No,Travel_Rarely,12742,21,4,4,3,No,0,0.018481550483107154,10,Low,Monitor,Long promotion gap
-501,Research & Development,Research Scientist,No,Travel_Rarely,2543,2,3,4,3,No,0,0.01846922414963403,10,Low,Monitor,Early tenure
+1026,Research & Development,Manufacturing Director,No,Travel_Rarely,12742,21,4,4,3,No,0,0.01848155048310715,10,Low,Monitor,Long promotion gap
+501,Research & Development,Research Scientist,No,Travel_Rarely,2543,2,3,4,3,No,0,0.018469224149634034,10,Low,Monitor,Early tenure
 393,Research & Development,Healthcare Representative,No,Travel_Rarely,5745,2,4,4,3,No,0,0.018452954316373494,10,Low,Monitor,Early tenure
 1085,Research & Development,Research Scientist,No,Travel_Rarely,3376,10,3,2,3,No,0,0.018089153314848092,10,Low,Monitor,Low environment satisfaction; No stock option
-386,Research & Development,Research Director,Yes,Travel_Rarely,17584,5,3,3,2,No,0,0.017895764887018873,10,Low,Monitor,Works overtime; Low work-life balance
+386,Research & Development,Research Director,Yes,Travel_Rarely,17584,5,3,3,2,No,0,0.017895764887018877,10,Low,Monitor,Works overtime; Low work-life balance
 391,Research & Development,Research Scientist,No,Travel_Rarely,2115,17,4,4,3,No,0,0.017559812166910636,10,Low,Monitor,Long promotion gap; No stock option
 1334,Research & Development,Manager,Yes,Non-Travel,17861,20,3,3,2,No,0,0.017508733326640418,10,Low,Monitor,Works overtime; Low work-life balance; No stock option
-482,Research & Development,Healthcare Representative,No,Travel_Rarely,6755,3,3,4,3,No,0,0.01744719776063221,10,Low,Monitor,No stock option
+482,Research & Development,Healthcare Representative,No,Travel_Rarely,6755,3,3,4,3,No,0,0.017447197760632215,10,Low,Monitor,No stock option
 949,Research & Development,Research Scientist,No,Travel_Rarely,4678,6,4,2,3,No,0,0.017250758517239242,10,Low,Monitor,Low environment satisfaction; No stock option
 1830,Research & Development,Research Scientist,No,Travel_Rarely,6854,7,4,4,2,No,0,0.017181334123285125,10,Low,Monitor,Low work-life balance
 1627,Research & Development,Laboratory Technician,No,Travel_Rarely,3069,10,3,3,3,No,0,0.017042588836995436,10,Low,Monitor,No dominant heuristic risk driver
@@ -1366,12 +1366,12 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 807,Research & Development,Healthcare Representative,No,Travel_Frequently,4244,8,2,3,3,No,0,0.016358972857381256,10,Low,Monitor,Frequent business travel; Low job satisfaction
 1941,Research & Development,Research Director,No,Travel_Frequently,19161,5,4,2,3,No,0,0.016081682831018622,10,Low,Monitor,Frequent business travel; Low environment satisfaction; Long promotion gap; No stock option
 303,Sales,Sales Executive,No,Travel_Rarely,5940,6,1,4,3,No,0,0.01594978767666948,10,Low,Monitor,Low job satisfaction
-1344,Research & Development,Healthcare Representative,No,Travel_Rarely,8500,9,4,4,2,No,0,0.01593103322999211,10,Low,Monitor,Low work-life balance
+1344,Research & Development,Healthcare Representative,No,Travel_Rarely,8500,9,4,4,2,No,0,0.015931033229992106,10,Low,Monitor,Low work-life balance
 349,Sales,Sales Executive,No,Travel_Rarely,6931,3,4,4,3,No,0,0.015617836895987619,10,Low,Monitor,No dominant heuristic risk driver
 253,Research & Development,Manager,No,Travel_Rarely,19033,20,3,4,3,No,0,0.015551933273580888,10,Low,Monitor,Long promotion gap
-1799,Research & Development,Research Scientist,No,Travel_Rarely,2044,5,4,3,4,No,0,0.015445054024805414,10,Low,Monitor,No dominant heuristic risk driver
+1799,Research & Development,Research Scientist,No,Travel_Rarely,2044,5,4,3,4,No,0,0.015445054024805411,10,Low,Monitor,No dominant heuristic risk driver
 1443,Research & Development,Research Director,No,Travel_Rarely,17169,20,3,1,4,No,0,0.015404903630521759,10,Low,Monitor,Low environment satisfaction; Long promotion gap
-2022,Research & Development,Manager,No,Non-Travel,19431,6,4,4,2,No,0,0.015310185174879247,10,Low,Monitor,Low work-life balance; No stock option
+2022,Research & Development,Manager,No,Non-Travel,19431,6,4,4,2,No,0,0.01531018517487925,10,Low,Monitor,Low work-life balance; No stock option
 460,Research & Development,Manufacturing Director,No,Travel_Rarely,6347,6,4,4,2,No,0,0.015236229952319333,10,Low,Monitor,Low work-life balance
 1670,Sales,Sales Executive,No,Travel_Rarely,5505,6,4,4,3,No,0,0.01506101294639934,10,Low,Monitor,No dominant heuristic risk driver
 612,Research & Development,Research Director,No,Travel_Rarely,16184,6,3,1,3,No,0,0.015032790089066259,10,Low,Monitor,Low environment satisfaction
@@ -1384,12 +1384,12 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 1423,Research & Development,Research Director,Yes,Travel_Rarely,19701,9,1,4,3,No,0,0.01371672399306429,10,Low,Monitor,Works overtime; Low job satisfaction
 1304,Sales,Sales Executive,No,Travel_Rarely,6209,10,4,3,4,No,0,0.013582159199826138,10,Low,Monitor,No dominant heuristic risk driver
 1523,Research & Development,Research Director,No,Travel_Rarely,16328,20,1,4,4,No,0,0.013319915277630157,10,Low,Monitor,Low job satisfaction; Long promotion gap
-1658,Research & Development,Research Scientist,No,Travel_Rarely,5433,11,2,4,3,No,0,0.013214708348788197,10,Low,Monitor,Low job satisfaction; Long promotion gap
+1658,Research & Development,Research Scientist,No,Travel_Rarely,5433,11,2,4,3,No,0,0.013214708348788198,10,Low,Monitor,Low job satisfaction; Long promotion gap
 551,Research & Development,Healthcare Representative,No,Travel_Frequently,4523,6,4,4,4,No,0,0.013167465706819622,10,Low,Monitor,Frequent business travel
 1572,Research & Development,Manufacturing Director,No,Travel_Rarely,10169,33,4,3,3,Yes,1,0.012901048318643337,10,Low,Monitor,No dominant heuristic risk driver
 373,Research & Development,Laboratory Technician,No,Travel_Rarely,3210,15,4,4,3,No,0,0.01284857266943078,10,Low,Monitor,Long promotion gap
 990,Sales,Sales Executive,No,Non-Travel,5079,7,4,1,3,No,0,0.01278338375634036,10,Low,Monitor,Low environment satisfaction
-1712,Research & Development,Healthcare Representative,No,Non-Travel,10748,23,3,3,2,No,0,0.012783077471032734,10,Low,Monitor,Low work-life balance; Long promotion gap
+1712,Research & Development,Healthcare Representative,No,Non-Travel,10748,23,3,3,2,No,0,0.012783077471032732,10,Low,Monitor,Low work-life balance; Long promotion gap
 976,Research & Development,Manager,No,Travel_Rarely,17099,9,4,4,2,No,0,0.01262729397606588,10,Low,Monitor,Low work-life balance; Long promotion gap
 581,Research & Development,Manufacturing Director,No,Travel_Rarely,10648,13,2,3,4,No,0,0.01256716863576314,10,Low,Monitor,Low job satisfaction
 1824,Sales,Manager,No,Non-Travel,16291,16,2,2,2,No,0,0.01253236000749019,10,Low,Monitor,Low job satisfaction; Low environment satisfaction; Low work-life balance; Long promotion gap
@@ -1398,18 +1398,18 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 606,Sales,Sales Executive,No,Travel_Rarely,4805,8,2,4,4,No,0,0.01218838964356415,10,Low,Monitor,Low job satisfaction
 771,Research & Development,Healthcare Representative,No,Non-Travel,5093,1,1,4,4,No,0,0.011575990582282902,10,Low,Monitor,Low job satisfaction; Early tenure
 1546,Research & Development,Research Scientist,No,Travel_Rarely,2132,5,4,4,3,No,0,0.01142706878341412,10,Low,Monitor,No dominant heuristic risk driver
-1096,Research & Development,Manufacturing Director,No,Travel_Frequently,10976,3,2,4,3,No,0,0.011378026512254854,10,Low,Monitor,Frequent business travel; Low job satisfaction
-1774,Sales,Sales Executive,Yes,Non-Travel,4001,15,3,4,3,No,0,0.011230901532842355,10,Low,Monitor,Works overtime
+1096,Research & Development,Manufacturing Director,No,Travel_Frequently,10976,3,2,4,3,No,0,0.011378026512254856,10,Low,Monitor,Frequent business travel; Low job satisfaction
+1774,Sales,Sales Executive,Yes,Non-Travel,4001,15,3,4,3,No,0,0.011230901532842357,10,Low,Monitor,Works overtime
 727,Research & Development,Research Director,No,Travel_Rarely,11159,7,4,3,3,No,0,0.010839634888139424,10,Low,Monitor,Long promotion gap; No stock option
 1664,Research & Development,Healthcare Representative,No,Travel_Rarely,6842,5,1,4,3,No,0,0.010730998617806218,10,Low,Monitor,Low job satisfaction
 671,Research & Development,Manager,Yes,Travel_Rarely,19513,2,4,4,4,No,0,0.010609434068013582,10,Low,Monitor,Works overtime; Early tenure
 550,Research & Development,Manufacturing Director,No,Travel_Rarely,4810,10,3,3,2,No,0,0.010584097160945247,10,Low,Monitor,Low work-life balance
-1955,Research & Development,Healthcare Representative,No,Non-Travel,6667,5,4,3,3,No,0,0.01045268318205354,10,Low,Monitor,No dominant heuristic risk driver
-1653,Research & Development,Manufacturing Director,No,Travel_Frequently,5206,7,3,4,3,No,0,0.010285810582298646,10,Low,Monitor,Frequent business travel
+1955,Research & Development,Healthcare Representative,No,Non-Travel,6667,5,4,3,3,No,0,0.010452683182053538,10,Low,Monitor,No dominant heuristic risk driver
+1653,Research & Development,Manufacturing Director,No,Travel_Frequently,5206,7,3,4,3,No,0,0.010285810582298648,10,Low,Monitor,Frequent business travel
 395,Research & Development,Research Scientist,No,Travel_Rarely,3310,5,4,4,3,No,0,0.010284886698630868,10,Low,Monitor,No stock option
 1196,Research & Development,Manufacturing Director,No,Travel_Rarely,6474,14,4,4,2,No,0,0.010234266480291316,10,Low,Monitor,Low work-life balance
 1484,Research & Development,Healthcare Representative,No,Travel_Rarely,10466,8,2,3,3,No,0,0.010218722201583912,10,Low,Monitor,Low job satisfaction
-1449,Research & Development,Laboratory Technician,No,Non-Travel,3975,8,3,3,4,No,0,0.009729776898372365,10,Low,Monitor,No dominant heuristic risk driver
+1449,Research & Development,Laboratory Technician,No,Non-Travel,3975,8,3,3,4,No,0,0.009729776898372367,10,Low,Monitor,No dominant heuristic risk driver
 86,Research & Development,Research Scientist,No,Travel_Rarely,9724,1,1,2,3,No,0,0.009538567202804122,10,Low,Monitor,Low job satisfaction; Low environment satisfaction; Early tenure
 1264,Research & Development,Research Director,No,Travel_Rarely,16124,7,4,4,2,No,0,0.00952451839816426,10,Low,Monitor,Low work-life balance
 823,Research & Development,Manufacturing Director,No,Travel_Rarely,5228,9,2,3,3,No,0,0.009165794285271773,10,Low,Monitor,Low job satisfaction
@@ -1420,22 +1420,22 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 996,Research & Development,Laboratory Technician,No,Travel_Rarely,2270,5,4,4,3,No,0,0.008565602678351788,10,Low,Monitor,No dominant heuristic risk driver
 1215,Research & Development,Manager,No,Travel_Frequently,17856,2,1,4,3,No,0,0.008268806493278356,10,Low,Monitor,Frequent business travel; Low job satisfaction; Early tenure
 791,Research & Development,Research Scientist,No,Non-Travel,4258,4,4,4,3,No,0,0.008190481375208784,10,Low,Monitor,No dominant heuristic risk driver
-1474,Research & Development,Research Scientist,No,Travel_Rarely,2345,3,3,3,4,No,0,0.008171434117486328,10,Low,Monitor,No dominant heuristic risk driver
+1474,Research & Development,Research Scientist,No,Travel_Rarely,2345,3,3,3,4,No,0,0.00817143411748633,10,Low,Monitor,No dominant heuristic risk driver
 36,Research & Development,Healthcare Representative,No,Travel_Rarely,10248,22,4,1,3,No,0,0.0075534439911245435,10,Low,Monitor,Low environment satisfaction; Long promotion gap
-1246,Research & Development,Research Scientist,No,Travel_Rarely,2011,10,4,1,3,No,0,0.007532160839791027,10,Low,Monitor,Low environment satisfaction; Long promotion gap
+1246,Research & Development,Research Scientist,No,Travel_Rarely,2011,10,4,1,3,No,0,0.007532160839791025,10,Low,Monitor,Low environment satisfaction; Long promotion gap
 140,Human Resources,Manager,No,Non-Travel,18844,3,4,3,3,No,0,0.007445624442040648,10,Low,Monitor,No dominant heuristic risk driver
-1728,Research & Development,Manufacturing Director,No,Travel_Rarely,6883,7,3,4,3,No,0,0.007408933101600101,10,Low,Monitor,No dominant heuristic risk driver
-2051,Research & Development,Research Scientist,No,Travel_Rarely,2001,5,3,3,3,No,0,0.007002044028018343,10,Low,Monitor,No dominant heuristic risk driver
+1728,Research & Development,Manufacturing Director,No,Travel_Rarely,6883,7,3,4,3,No,0,0.007408933101600099,10,Low,Monitor,No dominant heuristic risk driver
+2051,Research & Development,Research Scientist,No,Travel_Rarely,2001,5,3,3,3,No,0,0.007002044028018342,10,Low,Monitor,No dominant heuristic risk driver
 950,Research & Development,Research Director,No,Travel_Rarely,13582,15,1,4,3,No,0,0.0069618003054530515,10,Low,Monitor,Low job satisfaction; Long promotion gap
 447,Research & Development,Research Director,No,Travel_Rarely,18300,3,3,4,3,No,0,0.006940037315513294,10,Low,Monitor,No dominant heuristic risk driver
 730,Research & Development,Research Director,No,Travel_Rarely,14814,5,3,3,3,No,0,0.00691869985639207,10,Low,Monitor,No stock option
 2000,Research & Development,Research Director,No,Non-Travel,11957,13,2,3,1,No,0,0.006880289119806097,10,Low,Monitor,Low job satisfaction; Low work-life balance; Long promotion gap
-1069,Research & Development,Research Director,No,Travel_Rarely,19627,2,4,4,3,No,0,0.006822865518944727,10,Low,Monitor,Early tenure
-1668,Research & Development,Research Scientist,No,Travel_Frequently,4735,13,4,4,4,No,0,0.00680704238979681,10,Low,Monitor,Frequent business travel
+1069,Research & Development,Research Director,No,Travel_Rarely,19627,2,4,4,3,No,0,0.006822865518944726,10,Low,Monitor,Early tenure
+1668,Research & Development,Research Scientist,No,Travel_Frequently,4735,13,4,4,4,No,0,0.006807042389796809,10,Low,Monitor,Frequent business travel
 1045,Sales,Manager,No,Travel_Rarely,17650,9,4,4,4,No,0,0.006675209635441694,10,Low,Monitor,No dominant heuristic risk driver
 1117,Sales,Sales Executive,No,Non-Travel,5593,15,3,2,3,No,0,0.006546186164585304,10,Low,Monitor,Low environment satisfaction; Long promotion gap
 1201,Research & Development,Manager,No,Travel_Rarely,18606,7,3,4,3,No,0,0.00648723773818076,10,Low,Monitor,Long promotion gap
-1408,Human Resources,Manager,No,Travel_Rarely,16799,20,1,3,3,No,0,0.006417154151553453,10,Low,Monitor,Low job satisfaction
+1408,Human Resources,Manager,No,Travel_Rarely,16799,20,1,3,3,No,0,0.006417154151553454,10,Low,Monitor,Low job satisfaction
 417,Research & Development,Healthcare Representative,No,Travel_Rarely,9613,18,4,3,2,No,0,0.006229532300992411,10,Low,Monitor,Low work-life balance
 287,Research & Development,Healthcare Representative,No,Non-Travel,4876,3,4,4,1,No,0,0.006191943425470909,10,Low,Monitor,Low work-life balance
 2026,Research & Development,Healthcare Representative,No,Non-Travel,6306,13,3,3,2,No,0,0.00607629607696103,10,Low,Monitor,Low work-life balance
@@ -1449,23 +1449,23 @@ EmployeeNumber,Department,JobRole,OverTime,BusinessTravel,MonthlyIncome,YearsAtC
 999,Research & Development,Research Director,No,Travel_Frequently,19419,18,3,1,4,No,0,0.004987115414172893,10,Low,Monitor,Frequent business travel; Low environment satisfaction
 208,Research & Development,Manufacturing Director,No,Non-Travel,4319,10,3,4,3,No,0,0.004857576498788209,10,Low,Monitor,No dominant heuristic risk driver
 46,Research & Development,Research Scientist,No,Travel_Rarely,2645,5,3,4,2,No,0,0.004762000735314989,10,Low,Monitor,Low work-life balance
-336,Research & Development,Manager,No,Travel_Rarely,19202,24,4,3,3,No,0,0.004673813047679374,10,Low,Monitor,No dominant heuristic risk driver
+336,Research & Development,Manager,No,Travel_Rarely,19202,24,4,3,3,No,0,0.004673813047679373,10,Low,Monitor,No dominant heuristic risk driver
 997,Research & Development,Research Director,No,Travel_Rarely,17399,5,4,4,2,No,0,0.004267177280492743,10,Low,Monitor,Low work-life balance
 1940,Research & Development,Research Scientist,No,Travel_Rarely,4771,5,4,2,4,No,0,0.003966962874717348,10,Low,Monitor,Low environment satisfaction
 1608,Research & Development,Research Director,Yes,Travel_Rarely,19049,22,4,2,2,No,0,0.0036858834967310257,10,Low,Monitor,Works overtime; Low environment satisfaction; Low work-life balance
-1662,Research & Development,Manufacturing Director,No,Non-Travel,4374,3,3,4,3,No,0,0.003667656999287119,10,Low,Monitor,No stock option
+1662,Research & Development,Manufacturing Director,No,Non-Travel,4374,3,3,4,3,No,0,0.0036676569992871184,10,Low,Monitor,No stock option
 1607,Research & Development,Research Scientist,No,Travel_Rarely,3312,3,4,2,3,No,0,0.0034196845078326306,10,Low,Monitor,Low environment satisfaction
-1040,Sales,Sales Executive,No,Non-Travel,6347,18,3,4,3,No,0,0.003095293474418955,10,Low,Monitor,No dominant heuristic risk driver
+1040,Sales,Sales Executive,No,Non-Travel,6347,18,3,4,3,No,0,0.0030952934744189545,10,Low,Monitor,No dominant heuristic risk driver
 270,Research & Development,Manufacturing Director,No,Non-Travel,5265,5,3,3,3,No,0,0.0028377517589491027,10,Low,Monitor,No dominant heuristic risk driver
 352,Research & Development,Research Director,No,Travel_Rarely,19436,21,3,1,3,No,0,0.0028009132193654905,10,Low,Monitor,Low environment satisfaction
 1630,Research & Development,Healthcare Representative,No,Non-Travel,4148,14,3,3,3,No,0,0.0026162540406429015,10,Low,Monitor,No dominant heuristic risk driver
 262,Research & Development,Research Scientist,No,Non-Travel,2089,5,4,4,4,No,0,0.0025675495389457506,10,Low,Monitor,No dominant heuristic risk driver
-1468,Research & Development,Research Director,No,Non-Travel,13757,9,2,4,3,No,0,0.002480573363768962,10,Low,Monitor,Low job satisfaction; Long promotion gap
+1468,Research & Development,Research Director,No,Non-Travel,13757,9,2,4,3,No,0,0.0024805733637689614,10,Low,Monitor,Low job satisfaction; Long promotion gap
 1035,Research & Development,Research Director,No,Non-Travel,19973,21,3,2,3,No,0,0.0024307437762324242,10,Low,Monitor,Low environment satisfaction; Long promotion gap
 139,Research & Development,Healthcare Representative,No,Non-Travel,5163,1,4,3,4,No,0,0.0023654854498850867,10,Low,Monitor,Early tenure
 1255,Research & Development,Research Director,No,Travel_Rarely,19740,8,4,3,3,No,0,0.002314455678411398,10,Low,Monitor,No dominant heuristic risk driver
 1635,Research & Development,Manufacturing Director,No,Travel_Rarely,5770,10,4,4,3,No,0,0.0021440634893866756,10,Low,Monitor,No dominant heuristic risk driver
 1822,Research & Development,Healthcare Representative,No,Travel_Rarely,6513,5,4,3,3,No,0,0.0018850810930226168,10,Low,Monitor,No dominant heuristic risk driver
-1250,Research & Development,Research Director,No,Travel_Rarely,17779,10,4,4,3,No,0,0.0011196518934590842,10,Low,Monitor,No stock option
+1250,Research & Development,Research Director,No,Travel_Rarely,17779,10,4,4,3,No,0,0.0011196518934590844,10,Low,Monitor,No stock option
 1804,Research & Development,Manufacturing Director,No,Non-Travel,5762,7,4,2,3,No,0,0.0009253375042194521,10,Low,Monitor,Low environment satisfaction
 1424,Research & Development,Research Director,No,Travel_Rarely,14732,7,4,2,4,No,0,0.000691025851808229,10,Low,Monitor,Low environment satisfaction

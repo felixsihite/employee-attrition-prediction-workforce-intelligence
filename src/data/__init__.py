@@ -2,6 +2,7 @@
 
 from src.data.quality import (
     DataQualityResult,
+    categorical_columns,
     categorical_cardinality,
     data_dictionary_frame,
     detect_constant_columns,
@@ -15,6 +16,7 @@ from src.data.quality import (
 
 __all__ = [
     "DataQualityResult",
+    "categorical_columns",
     "categorical_cardinality",
     "data_dictionary_frame",
     "detect_constant_columns",

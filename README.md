@@ -1,8 +1,26 @@
 # Employee Attrition Prediction & Workforce Intelligence
 
+[![Project Validation](https://github.com/felixsihite/employee-attrition-prediction-workforce-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/felixsihite/employee-attrition-prediction-workforce-intelligence/actions/workflows/ci.yml)
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://employee-attrition-prediction-workforce-intelligence-uc5kedjxy.streamlit.app/)
+[![Python 3.13.1](https://img.shields.io/badge/Python-3.13.1-3776AB?logo=python&logoColor=white)](pyproject.toml)
+[![Dataset: Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Professional People Analytics portfolio project for predicting employee attrition risk, explaining risk drivers, segmenting workforce patterns, and supporting responsible HR retention planning.
 
-**Live Streamlit dashboard:** https://employee-attrition-prediction-workforce-intelligence-uc5kedjxy.streamlit.app/
+**Live Streamlit dashboard:** [employee-attrition-prediction-workforce-intelligence-uc5kedjxy.streamlit.app](https://employee-attrition-prediction-workforce-intelligence-uc5kedjxy.streamlit.app/)
+
+**Recruiter project brief:** [docs/recruiter_project_brief.md](docs/recruiter_project_brief.md)
+
+## Portfolio Snapshot
+
+| Portfolio signal | Evidence |
+| --- | --- |
+| Business relevance | HR attrition risk prioritization, workforce segmentation, and responsible retention review |
+| End-to-end delivery | Data validation, feature engineering, modeling, scoring, explainability, reports, and Streamlit dashboard |
+| Reproducibility | `scripts/run_pipeline.py`, pinned dependency ranges, GitHub Actions validation, and committed outputs |
+| Analytical depth | PR-AUC, recall, F2, balanced accuracy, threshold optimization, lift/gain, SQL reporting, and R statistical analysis |
+| Responsible AI | Human review workflow, fairness summaries, model card, limitations, and non-automation positioning |
 
 ![Executive dashboard preview](outputs/dashboard_screenshots/00_app.png)
 

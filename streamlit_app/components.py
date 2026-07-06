@@ -47,6 +47,16 @@ CHART_TEMPLATE = {
     "height": 460,
 }
 
+NAVIGATION_LINKS = [
+    ("Dashboard", "app.py"),
+    ("Overview", "pages/1_Executive_Workforce_Overview.py"),
+    ("Attrition", "pages/2_Attrition_Intelligence.py"),
+    ("Segmentation", "pages/3_Workforce_Segmentation.py"),
+    ("Model", "pages/4_Model_Performance.py"),
+    ("Risk Scoring", "pages/5_Employee_Risk_Scoring.py"),
+    ("Recommendations", "pages/6_Explainable_AI_HR_Recommendations.py"),
+]
+
 
 def chart_layout(**overrides) -> dict:
     layout = dict(CHART_TEMPLATE)
@@ -55,9 +65,19 @@ def chart_layout(**overrides) -> dict:
 
 
 def page_setup(title: str) -> None:
-    st.set_page_config(page_title=title, page_icon=None, layout="wide")
+    st.set_page_config(page_title=title, page_icon=None, layout="wide", initial_sidebar_state="expanded")
     css_path = APP_DIR / "assets" / "theme.css"
     st.markdown(f"<style>{css_path.read_text(encoding='utf-8')}</style>", unsafe_allow_html=True)
+    quick_navigation()
+
+
+def quick_navigation() -> None:
+    st.markdown("<div class='quick-nav-label'>Pages</div>", unsafe_allow_html=True)
+    first_row = st.columns(4, gap="small")
+    second_row = st.columns(3, gap="small")
+    for column, (label, page_path) in zip([*first_row, *second_row], NAVIGATION_LINKS):
+        with column:
+            st.page_link(page_path, label=label)
 
 
 def page_header(title: str, subtitle: str, kicker: str = "People Analytics") -> None:

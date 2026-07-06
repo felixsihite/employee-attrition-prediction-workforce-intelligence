@@ -9,6 +9,7 @@ from typing import cast
 
 import joblib
 import matplotlib.pyplot as plt
+from matplotlib.lines import Line2D
 import pandas as pd
 from sklearn.metrics import PrecisionRecallDisplay, RocCurveDisplay, ConfusionMatrixDisplay
 
@@ -154,8 +155,9 @@ def save_core_charts(
 
     fig, ax = plt.subplots(figsize=(7, 5))
     roc_display = RocCurveDisplay.from_predictions(model_results["y_test"], model_results["test_probability"], ax=ax)
-    roc_display.line_.set_color(THEME["accent_blue"])
-    roc_display.line_.set_linewidth(2.4)
+    roc_line = cast(Line2D, roc_display.line_)
+    roc_line.set_color(THEME["accent_blue"])
+    roc_line.set_linewidth(2.4)
     polish_axis(ax, "ROC Curve - Final Model", "False Positive Rate", "True Positive Rate")
     fig.tight_layout()
     fig.savefig(CHARTS_DIR / "roc_curve.png", dpi=180)
@@ -163,8 +165,9 @@ def save_core_charts(
 
     fig, ax = plt.subplots(figsize=(7, 5))
     pr_display = PrecisionRecallDisplay.from_predictions(model_results["y_test"], model_results["test_probability"], ax=ax)
-    pr_display.line_.set_color(THEME["accent_teal"])
-    pr_display.line_.set_linewidth(2.4)
+    pr_line = cast(Line2D, pr_display.line_)
+    pr_line.set_color(THEME["accent_teal"])
+    pr_line.set_linewidth(2.4)
     polish_axis(ax, "Precision-Recall Curve - Final Model", "Recall", "Precision")
     fig.tight_layout()
     fig.savefig(CHARTS_DIR / "precision_recall_curve.png", dpi=180)
